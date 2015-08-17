@@ -1,4 +1,6 @@
-====== 15. The Promised Land ======
+====== Baibel Stori i Kam Long Josua 1-24 ======
+
+
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-01.jpg}}
 
@@ -33,6 +35,7 @@ Then the walls around Jericho fell down! The Israelites destroyed everything in 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-06.jpg}}
 
 God had commanded the Israelites not to make a peace treaty with any of the people groups in Canaan. But one of the Canaanite people groups, called the Gibeonites, lied to Joshua and said they were from a place far from Canaan. They asked Joshua to make a peace treaty with them. Joshua and the Israelites did not ask God where the Gibeonites were from. So Joshua made a peace treaty with them.
+
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-07.jpg}}
@@ -76,6 +79,5 @@ After this battle, God gave each tribe of Israel its own section of the Promised
 When Joshua was an old man, he called all the people of Israel together. Then Joshua reminded the people of their obligation to obey the covenant that God had made with the Israelites at Sinai. The people promised to remain faithful to God and follow his laws.
 
 
-//A Bible story from: Joshua 1-24//
 
-
+// A Bible story from: Joshua 1-24 //
