@@ -88,4 +88,4 @@ Stat 1-3,6,14, 22; Kisim Bek 12:20; 2 Samuel 7; Hibru 3:-6,4:14-5:10,7:1-8:13, 9
 
 
 
-// A Bible story from: Genesis 1-3, 6, 14, 22; Exodus 12, 20; 2 Samuel 7; Hebrew 3:1-6, 4:14-5:10, 7:1-8:13, 9:11-10:18; Revelation 21 //
+// 48. Jisas Em Dispela Promis Mesaia //
