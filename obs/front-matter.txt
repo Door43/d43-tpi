@@ -1,30 +1,37 @@
-**unfoldingWord | OPEN BIBLE STORIES**
+unfoldingWord | OL FRI BAIBEL STORI
 
-**an unrestricted visual mini-Bible in any language**
+<font inherit/inherit;;inherit;;inherit>I nogat tambu long liklik piksa-Baibel long kainkain tokples</font>
 
-http://openbiblestories.com
+__http://openbiblestories.com__
 
-Open Bible Stories, v. 3.1
+Ol Fri Baibel Stori, Inglis, v. 3.2
 
-Created by Distant Shores Media (http://distantshores.org) and the Door43 world missions community (http://door43.org).
+Ol i wokim long Distant Shores Media
 
+(http://distantshores.org) na Door43 world mission community (http://door43.org).
 
-**License:**
+<font inherit/inherit;;inherit;;inherit>Sekim Levol 3</font>
 
-This work is made available under a Creative Commons Attribution-ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/).
+Na painim aut moa long [[https://unfoldingWord.org/quality|https://unfoldingWord.org/quality]]
 
-You are free:
+Laisens:
 
-* **Share** — copy and redistribute the material in any medium or format
-* **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
+Dispela wok ol i mekim I kamap redi aninit long Creative Commons Attribution-ShareAlike 4.0 International License ([[http://creativecommons.org/license/bysa/4.0/|http://creativecommons.org/license/bysa/4.0/]]).
 
-Under the following conditions:
+Yu fri long:
 
-* **Attribution** — You must attribute the work as follows: "Original work available at http://openbiblestories.com." Attribution statements in derivative works should not in any way suggest that we endorse you or your use of this work.
-* **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+. Long yusim – yu ken wokim kopi i go bikpela o liklik long salim i go aut gen
 
-Use of trademarks: **unfoldingWord** is a trademark of Distant Shores Media and may not be included on any derivative works created from this content.  Unaltered content from http://openbiblestories.com must include the **unfoldingWord** logo when distributed to others. But if you alter the content in any way, you must remove the **unfoldingWord** logo before distributing your work.
+Mekim i kamap gutpela: yu ken miksim na senisim antap long dispela buk long wokim arapela samting na  long wokim mani.
 
-Attribution of artwork: All images used in these stories are © Sweet Publishing (www.sweetpublishing.com) and are made available under a Creative Commons Attribution-Share Alike License (http://creativecommons.org/licenses/by-sa/3.0).
+Aninit long ol dispela tingting:
 
-To our brothers and sisters in Christ all over the world—the global church. It is our prayer that God would use this visual overview of His Word to bless, strengthen, and encourage you.
+. Luksave – yu mas toksave long dispela wok olsem, namba wan wok em i stap long [[http://openbiblestories.com|http://openbiblestories.com]] . Tok bilong luksave long olgeta wok i wokim bihain em i no tok, mipela i tok orait long yu long taim yu yusim dispela wok.
+
+                             . Skelim wankain – sapos yu laik tanim gen na senisim o putim sampela moa antap long dispela wok, yu mas tilim dispela wok bilong yu aninit long dispela laisens long wok yu bin wokim pastaim.
+
+<font inherit/inherit;;inherit;;inherit>Long yusim trademarks: unfoldingWord em i trademark bilong Distant Shores Media na em i noken i stap insait taim yu kisim long narapela na yu mekim wok antap long dispela buk. Unaltered content from</font> [[http://openbiblestories.com|http://openbiblestories.com]]<font inherit/inherit;;inherit;;inherit>i mas i stap insait long unfoldingWord logo taim salim i go aut long ol arapela. Tasol sapos yu senisim sampela samting insait long buk, yu mas rausim dispela unfoldingWord logo pastaim long yu givim buk bilong yu i go aut.</font>
+
+<font inherit/inherit;;inherit;;inherit>Luksave bilong ol piksa: Olgeta piksa i stap insait long dispela stori em  Sweet Publishing (</font> [[http://www.sweetpublishing.com|www.sweetpublishing.com]]<font inherit/inherit;;inherit;;inherit>) mekim redi aninit long Creative Commons Attribution-Share Alike License (</font> [[http://creativecommons.org/license/by-sa/3.o|http://creativecommons.org/license/by-sa/3.o]]<font inherit/inherit;;inherit;;inherit>)</font>
+
+<font inherit/inherit;;inherit;;inherit>Long ol brata na susa bilong yumi insait long krais, long olgeta hap graun na ol sios long olgeta hap. Em i prea bilong mipela long God i ken yusim dispela stori piksa buk long Tok bilong Em long blesim yu na strongim yu long sanap strong.</font>
