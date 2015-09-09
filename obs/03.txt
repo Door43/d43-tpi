@@ -1,4 +1,4 @@
-====== //3. Bikpela Wara Tait //  ======
+====== 3. Bikpela Wara Tait ======
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-01.jpg?direct&}}
 
@@ -64,4 +64,4 @@ God i tokim Noa olsem, "Mi promis, bai mi no inap bagarapim graun gen long bekim
 
 Na God i wokim namba wan renbo long skai olsem promis em i bin mekim. Olgeta manmeri bai tingim pasim tok, God i bin mekim.
 
-Baibel Stori i Kam Long: Stat 6-8
+//Baibel Stori i Kam Long: Stat 6-8//

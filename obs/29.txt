@@ -1,4 +1,4 @@
-====== //29. Stori Bilong Wokman Nogut // ======
+====== 29. Stori Bilong Wokman Nogut ======
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?direct&}}
 
@@ -36,4 +36,4 @@ Jisas i tok, "Kindom bilong God i wankain olsem wanpela king i laik stretim ol d
 
 Na Jisas i tok, "Wankain pasin bai Papa bilong mi long heven bai mekim long yupela wanwan sapos yupela i no lusim sin bilong ol brata bilong yupela long bel bilong yupela."
 
-Matyu 18:21-35
+//Matyu 18:21-35//
