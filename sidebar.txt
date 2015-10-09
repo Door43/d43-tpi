@@ -17,10 +17,6 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 **Recent Changes**
 {{changes>ns = tpi}}
 
-**Latest Status**
-{{page>en:uwadmin:tpi:obs:status}}
-
-
 **Language Information**
 
 [[http://www.ethnologue.com/language/tpi|Ethnologue data]]
