@@ -1,0 +1,23 @@
+====== unjust, unjustly, injustice ======
+===== Definition: =====
+
+Text
+  * bullet
+  * bullet
+
+===== Translation Suggestions: =====
+
+  * bullet
+  * bullet
+
+(See also: just, unrighteous)
+
+===== Bible References: =====
+
+{{topic>:en:bible?unjust&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>draft ktlink}}

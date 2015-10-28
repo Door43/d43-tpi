@@ -1,0 +1,22 @@
+====== Mordecai ======
+
+===== Facts: =====
+
+Mordecai was the Jewish cousin and guardian of Esther who became Queen of Persia.  Her king, Ahasuerus, was influenced by his advisor, Haman, to destroy all the Jews in his empire.  Mordecai prevailled, however, in a crafty manner, and Haman was done in.
+
+  * bullet
+  * bullet
+
+(Translation suggestions: [[:tpi:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: other)
+
+===== Bible References: =====
+
+{{topic>mordecai&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>draft est02 ktlink}}

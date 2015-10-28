@@ -1,0 +1,23 @@
+====== Micah ======
+
+===== Facts: =====
+
+Micah was a Judean prophet of the 8th century BC, a contemporary with the prophet Isaiah.
+
+  * Micah foresaw the destruction of Samaria by Assyrians.
+  * Micah was highly critical of the Judean rulers in Jerusalem and warned of the doom of their city.
+  * His prophecy concludes with a psalm of hope in the God of his salvation.
+
+(Translation suggestions: [[:tpi:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: other)
+
+===== Bible References: =====
+
+{{topic>micah&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>draft mic01 ktlink}}
