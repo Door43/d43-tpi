@@ -1,0 +1,52 @@
+====== 1 Samuel 18:30 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 30 The Philistine armies repeatedly came to fight the Israelites, but every time they fought, David and his soldiers were more successful than any of Saul's other army commanders. As a result, David became very famous.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 30 The Philistine armies repeatedly came to fight the Israelites, but every time they fought, David and his soldiers were more successful than any of Saul's other army commanders. As a result, David became very famous.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 30 Then the princes of the Philistines came out for battle, and as often as they came out, David succeeded more than all the servants of Saul, so that his name was highly regarded.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:prince]]
+  * [[en:obe:other:servant]]
+  * [[en:obe:kt:name]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **so that his name was highly regarded**  - AT: "and the people of Israel greatly respected David" (See: Metonyny and Active - Passive)
+    
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:1sa:18|1 Samuel Chapter 18 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1sa/18/27|<<]] | [[en/bible/notes/1sa/19/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

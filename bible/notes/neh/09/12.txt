@@ -1,0 +1,58 @@
+====== Nehemiah 09:12-13 ======
+
+===== TFT: =====
+
+<usfm>
+\v 12 During each day you led our ancestors with a bright cloud that resembled a huge pillar, and each night you led them by a flaming cloud that gave them light to show them where to walk.
+\pi
+\v 13 When our ancestors were at Sinai Mountain, you came down from heaven and spoke to them. You gave them many regulations and instructions that are just and reliable, and you gave them commands and laws that are good.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 12 During the day you led them with a cloud like a pillar for them to follow, and at night you gave them the light of a pillar of fire, to show them where to walk.
+\pi
+\v 13 On Mount Sinai you came down from heaven and spoke to them. You gave them many regulations and decrees that are just and reliable, and you gave them commands and laws that are good.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 12 You led them by a pillar of cloud during the by day, and by a pillar of fire during the night to light up the way for them so they could walk in its light.
+\v 13 On Mount Sinai you came down and you spoke with them from heaven and gave to them righteous decrees and true laws, good statutes and commandments.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:tpi:obe:other:pillar|pillar, column]]
+  * [[:tpi:obe:other:fire|fire]]
+  * [[:tpi:obe:kt:light|light]]
+  * [[:tpi:obe:kt:walk|walk]]
+  * [[:tpi:obe:other:sinai|Sinai, Mount Sinai]]
+  * [[:tpi:obe:kt:heaven|heaven, sky, heavens, heavenly]]
+  * [[:tpi:obe:kt:righteous|righteous, righteousness]]
+  * [[:tpi:obe:other:decree|decree]]
+  * [[:tpi:obe:kt:true|true, truth]]
+  * [[:tpi:obe:other:law|law, principle]]
+  * [[:tpi:obe:kt:good|good, goodness]]
+  * [[:tpi:obe:other:statute|statute, statutes]]
+  * [[:tpi:obe:other:command|command, to command, commandment]]
+
+===== Translation Notes: =====
+
+  * **to light up the way for them so they could walk in its light **- AT: "to light up for them the way in which they should go"
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+
+===== Links: =====
+
+  * **[[:tpi:bible:questions:comprehension:neh:09|Nehemiah Chapter 09 Comprehension Questions]]**
+**[[:tpi:bible:notes:neh:09:11|<<]] | [[:tpi:bible:notes:neh:09:14|>>]]**
+
+~~DISCUSSION~~{{tag>draft}}
+
+~~NOCACHE~~

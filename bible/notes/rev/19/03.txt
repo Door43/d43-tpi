@@ -1,0 +1,67 @@
+====== Revelation 19:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 \add The crowd\add* shouted a second time saying:
+\q1 Hallelujah!\f + \ft Or: Praise God! \f* The smoke of the fire that is burning the cities will rise forever!
+\q1
+\v 4 The twenty-four elders and the four living \add creatures\add* prostrated themselves\f + \ft Or: knelt down \f* and worshipped God, who sits on the throne. Then they said, "\add It\add* is true! Hallelujah!\f + \ft Or: Praise God! \f*"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 The crowd shouted a second time, saying,
+\q1 "Hallelujah! The smoke of the fire that is burning that city will rise forever!"
+\q1
+\v 4 The twenty-four elders and the four living creatures prostrated themselves and worshiped God, who sits on the throne. They said, "It is true! Hallelujah!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\m
+\v 3 A second time they spoke, 
+\q "Hallelujah! 
+\q The smoke rises from her forever and ever."
+\m
+\v 4 The twenty-four elders and the four living creatures prostrated themselves and worshiped God who was seated on the throne. They were saying, 
+\q "Amen. Hallelujah!"
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:tpi:obe:kt:forever]]
+  * [[:tpi:obe:other:elder]]
+  * [[:tpi:obe:other:creature]]
+  * [[en:obe:kt:worship]]
+  * [[:tpi:obe:other:throne]]
+  * [[:tpi:obe:kt:amen]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **Hallelujah**  - See how you translated this in [[en:bible:notes:rev:19:01|19:1]]
+    * **from her forever and ever** - "from the idolators forever and ever." AT: "from those who have prostituted themselves and will suffer forever and ever" (See: [[:tpi:ta:vol1:translate:figs_metaphor]])
+    * **twenty-four elders** - 24 elders (See: [[:tpi:ta:vol2:translate:translate_numbers]])
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:rev:19|Revelation Chapter 19 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/rev/19/01|<<]] | [[en/bible/notes/rev/19/05|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish ktlink living creature}}
+
+~~NOCACHE~~

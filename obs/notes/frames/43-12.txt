@@ -1,0 +1,22 @@
+===== 3000 Believe [43-12] =====
+
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-12.jpg?nolink}}
+
+About 3,000 people **believed** what **Peter** said and became **disciples** of **Jesus**. They were **baptized** and became part of the **church** at **Jerusalem**.
+===== Important Terms: =====
+
+  * **[[:tpi:obe:kt:believe]]**
+  * **[[:tpi:obe:other:peter]]**
+  * **[[:tpi:obe:kt:disciple]]**
+  * **[[:tpi:obe:kt:jesus]]**
+  * **[[:tpi:obe:kt:baptize]]**
+  * **[[:tpi:obe:kt:church]]**
+  * **[[:tpi:obe:other:jerusalem]]**
+
+
+===== Translation Notes: =====
+
+  * //(There are no notes for this frame.)// 
+
+
+**[[:tpi:obs:notes:frames:43-11|<<]] | [[:tpi:obs:notes:43|Up]] | [[:tpi:obs:notes:frames:43-13|>>]]**

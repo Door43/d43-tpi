@@ -1,0 +1,67 @@
+====== Hosea 03:4-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 \add Our doing that will show that\add* in the same way, the people of Israel will not have a king and other leaders for many years. They will not offer sacrifices or \add have sacred stone\add* pillars, no sacred vest \add for the Supreme Priest\add*, and no idols!
+\v 5 But later, the people of Israel will return to Yahweh their God and \add be guided by him and\add* a king who is a descendant of \add King\add* David. In the last\f + \ft Or: future \f* days they will come to Yahweh, revering him and trembling in his presence, and he will bless them.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 When I do these things, this is to show that the people of Israel will live for a long time and not have any king ruling over them. They will have no prince, no sacrifices or sacred pillars set up for worship, ephods or idols in their houses.
+\v 5 After some time, the people of Israel will return to Yahweh; they will hope that he will receive them back. They will hope to have a descendant of David for their king again. In the later time, they will come to Yahweh to honor him and tremble before him because of his goodness to them.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 4 For the people of Israel will live for many days without a king, prince, sacrifice, stone pillar, ephod or household idols.
+\v 5 Afterward the people of Israel will return and seek Yahweh their God and David their king. And in the last days, they will come trembling before Yahweh and his goodness.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:tpi:obe:other:peoplegroup|people group, people]]
+  * [[:tpi:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:tpi:obe:other:king|king]]
+  * [[:tpi:obe:other:prince|prince]]
+  * [[:tpi:obe:other:sacrifice|sacrifice, offering]]
+  * [[:tpi:obe:other:pillar|pillar, column]]
+  * [[:tpi:obe:other:ephod|ephod]]
+  * [[:tpi:obe:other:household|household]]
+  * [[:tpi:obe:other:idol|idol, idolatrous]]
+  * [[:tpi:obe:kt:yahweh|Yahweh]]
+  * [[:tpi:obe:kt:god|God]]
+  * [[:tpi:obe:other:david|David]]
+  * [[:tpi:obe:kt:good]]
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:hos:03|Hosea Chapter 03 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/hos/03/01|<<]] | [[en/bible/notes/hos/04/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

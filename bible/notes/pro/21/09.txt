@@ -1,0 +1,58 @@
+====== Proverbs 21:9-10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 It is better to live in the corner of an attic\f + \ft Or: housetop \f* \add by yourself\add*
+\q2 than to live inside the house with a wife who is always nagging\f + \ft Or: quarreling \f*.
+\b
+\q1
+\v 10 Wicked people \f + \ft synecdoche \f* are always wanting \add to do what is\add* evil;
+\q2 they never act mercifully toward anyone.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 It is better to live alone in the corner of a housetop
+\q2 than inside a house with a wife who is always wants to argue with you.
+\q1
+\v 10 The wicked crave evil more than anything, 
+ \q2 when his neighbor looks at him, he cannot see any kindness in his eyes. 
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 9 It is better to live in a corner of the housetop,
+\q than in a house shared with a quarrelsome wife .
+\q
+\v 10 The soul of the wicked craves evil;
+\q his neighbor sees no kindness in his eyes.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:tpi:obe:kt:life]]
+  * [[:tpi:obe:kt:soul|soul]]
+  * [[:tpi:obe:kt:evil|evil, wicked, wickedness]]
+  * [[:tpi:obe:other:neighbor|neighbor]]
+
+===== Translation Notes: =====
+
+  * **a corner of the housetop **- an angle or pinnacle of the roof of the house
+  * **The soul of the wicked craves evil **- the soul of the wicked man desires evil, like someone longing for food and drink
+===== Links: =====
+
+  * **[[:tpi:bible:questions:comprehension:pro:21|Proverbs Chapter 21 Comprehension Questions]]**
+**[[:tpi:bible:notes:pro:21:07|<<]] | [[:tpi:bible:notes:pro:21:11|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

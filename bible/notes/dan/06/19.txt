@@ -1,0 +1,49 @@
+====== Daniel 06:19-20 ======
+
+===== TFT: =====
+
+<usfm>
+\v 19 At dawn the next morning, the king got up and went quickly to the pit where the lions were.
+\v 20 When he came near it, he was very worried. He called out, "Daniel, you who serve the all-powerful God! Was your God, whom you worship regularly, able to save you from the lions?"
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 19 At dawn the next morning, the king got up and went quickly to the pit where the lions were.
+\v 20 When he came near it, he was very worried. He called out, fearing the worst, "Daniel, you who serve the living God! Was your God—whom you worship always—able to save you from the lions?"
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 19 Then at daybreak the king got up and quickly made his way to the lions' den.
+\v 20 As he came near to the den, he called out to Daniel with a voice filled with pain. He said to Daniel, "Daniel, servant of the living God, has your God, whom you serve continually, been able to save you from the lions?"
+</usfm>
+
+===== Important Terms: =====
+
+  * king
+  * Daniel
+  * [[:tpi:obe:other:servant|servant, slave, slavery]]
+  * [[:tpi:obe:kt:life|life, live, living, alive]]
+  * [[:tpi:obe:kt:god|God]]
+  * [[:tpi:obe:kt:save|save]]
+
+===== Translation Notes: =====
+
+No notes needed ULB and UDB are clear.
+
+===== Links: =====
+
+  * **[[:tpi:bible:questions:comprehension:dan:06|Daniel Chapter 06 Comprehension Questions]]**
+**[[:tpi:bible:notes:dan:06:17|<<]] | [[:tpi:bible:notes:dan:06:21|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

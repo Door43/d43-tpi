@@ -1,0 +1,59 @@
+====== 1 Samuel 27:8-9 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 \add During that time\add*, David and his men raided the people who lived in \add the areas\add* where the Geshur, Girzi, and Amalek people-groups lived. Those people had lived there a long time. That area extended \add south\add* from Telam to the Shur \add Desert\add* and to \add the border of\add* Egypt.
+\v 9 Whenever David's men attacked them, they killed all the men and women, and they took all the people's sheep and cattle and donkeys and camels, and even their clothes. Then they would bring those things back home, \add and David would go to talk\add* to Achish.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 During that time, David and his men raided the people who lived in the areas where the Geshur, Girzi, and Amalek people groups lived. Those people had lived there a long time. That area extended south from Telam to the Shur Desert and to the border of Egypt.
+\v 9 Whenever David's men attacked them, they killed all the men and women, and they took all the people's sheep and cattle and donkeys and camels, and even their clothes. Then they would bring those things back home, and David would go to talk to Achish.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 8 David and his men attacked various places, making raids on the Geshurites, the Girzites, and the Amalekites; for those
+nations were the inhabitants of the land, who were there from ancient times, as you go to Shur, as far as the land of Egypt.
+\v 9 David attacked the land and saved neither man nor woman alive; he took away the sheep, the oxen, the donkeys, the camels, and the clothing; he would return and come again to Achish.
+</usfm>
+
+===== Important Terms: =====
+
+
+  * [[:tpi:obe:other:geshur|Geshurites]]
+  * [[:tpi:obe:other:amalekite]]
+  * [[:tpi:obe:other:nation]]
+  * [[:tpi:obe:other:egypt]]
+  * [[:tpi:obe:kt:save]]
+  * [[:tpi:obe:other:sheep]]
+  * [[:tpi:obe:other:ox|oxen]]
+  * [[:tpi:obe:other:donkey]]
+  * [[:tpi:obe:other:camel]]
+
+===== Translation Notes: =====
+
+  * **David and his men attacked various places**  - This was something that happened many times, not something that just happened once.
+  * **Girzites** -  A people group who lived somewhere between Philistia and Egypt (See: [[:tpi:ta:vol1:translate:translate_names]])
+  * **who were there from ancient times**  - In the UDB, this reads "That area extended south from Telam."  The phrase could either be naming the place Telam or saying they were there from ancient times.
+  * **Shur**  - region on the northeast border of Egypt.  See how you translated this in [[:tpi:bible:notes:1sa:15:06|15:7]].
+  * **David attacked the land**  - AT: "David attacked the people in these lands" (See: [[:tpi:ta:vol2:translate:figs_metonymy]]).
+  * **David attacked**  - AT: "David and his men" (See: [[:tpi:ta:vol2:translate:figs_metonymy]]).
+
+===== Links: =====
+
+  * **[[:tpi:bible:questions:comprehension:1sa:27|1 Samuel Chapter 27 Comprehension Questions]]**
+**[[:tpi:bible:notes:1sa:27:05|<<]] | [[:tpi:bible:notes:1sa:27:10|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

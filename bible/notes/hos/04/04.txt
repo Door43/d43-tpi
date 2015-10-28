@@ -1,0 +1,76 @@
+====== Hosea 04:4-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 But no one should accuse someone else
+\q2 and say it is his fault.
+\q1 It is you priests whom I am accusing.
+\q1
+\v 5 So I will punish \f + \ft metonymy \f* you priests, night and day,
+\q2 and I will punish the prophets with you.
+\q1 I am going to destroy \add Israel, the nation that is like\add* \f + \ft metaphor \f* a mother to you.
+\q2
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 But you must not accuse anyone else for this trouble.
+\q2 You must not allow anyone to correct another person; no one has that right, because everyone is guilty.
+\q1 And I am also accusing the priests.
+\v 5 You priests sin during the day 
+\q2 and the prophets with you sin at night.
+\q1 I promise you, I will destroy Israel, who is like a mother to you.
+
+
+\q2
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 4 But do not allow anyone to bring a lawsuit;
+\q do not let anyone to accuse anyone else. 
+\q For it is you, priests, whom I am accusing.
+\q
+\v 5 You priests will stumble during the day;
+\q the prophets will also stumble with you by night,
+\q and I will destroy your mother.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:law]]
+  * [[:En:obe:kt:priest]]
+  * [[:En:obe:other:stumble]]
+  * [[:En:obe:kt:prophet]]
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:hos:04|Hosea Chapter 04 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/hos/04/03|<<]] | [[en/bible/notes/hos/04/06|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

@@ -1,0 +1,59 @@
+====== Deuteronomy 19:14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 \add When you are living\add* in the land that Yahweh our God is giving to you, do not move the markers of your neighbors' property boundaries which were placed there long ago.
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 When you are living in the land that Yahweh our God is giving to you, do not move the markers of your neighbors' property boundaries that were placed there long ago.
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 14 You must not remove your neighbor’s landmark that they set in place a long time ago, in your inheritance that you will inherit, in the land that Yahweh your God is giving you to possess.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * neighbor
+  * inheritance
+  * Yahweh
+  * God
+  * [[:tpi:obe:other:possess|possess, possession]]
+
+===== Translation Notes: =====
+
+  * **You must**  - Yahweh is still addressing the people of Israel.
+  * **remove your neighbor's landmark - **"change the markers of your neighbor's property"
+  * **they set in place**  - "the ancestors set in place"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:19|Deuteronomy Chapter 19 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/19/11|<<]] | [[en/bible/notes/deu/19/15|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

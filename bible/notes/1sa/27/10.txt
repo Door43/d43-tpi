@@ -1,0 +1,40 @@
+====== 1 Samuel 27:10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 10 Each time Achish would ask David, "Where did you go raiding today?" David \add would lie to him\add*. Sometimes would reply that they had gone to the southern part of Judah, and sometimes he would say that they had gone to Jerahmeel, or to the area where the Ken people-group lived.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 10 Each time Achish would ask David, "Where did you go raiding today?" David would say to him. Sometimes he would say that they had gone to the south part of Judah, and sometimes he would say that they had gone to south of the Jerahmeelites, or to that he was fighting against the south of the Kennites lived.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 10 Achish would say, "Against whom have you made a raid today?" David would answer, "Against the south of Judah," or "Against the
+south of the Jerahmeelites," or "Against the south of the Kenites."
+</usfm>
+
+===== Important Terms: =====
+
+  * 
+
+
+===== Translation Notes: =====
+
+  * **Achish**  - This is a man's name.  See how you translated this in [[:tpi:bible:notes:1sa:19:10|19:10]]
+  * **Jerahmeelites**  - The Jerahmeelites were a clan from the tribe of Judah (See: [[:tpi:ta:vol1:translate:translate_names]])
+  * **Kenites**  - people group who lived in the land of Midian during the time of Moses (Jethro, Moses' father in law was a Kenite), came up out of Egypt and journeyed with Israelites to Canaan. During the time of king Saul, they lived the southeast part of Palestine, near the border with Moab.  See how you translated this name in [[:tpi:bible:notes:1sa:15:06|15:6]].
+
+===== Links: =====
+
+  * **[[:tpi:bible:questions:comprehension:1sa:27|1 Samuel Chapter 27 Comprehension Questions]]**
+**[[:tpi:bible:notes:1sa:27:08|<<]] | [[:tpi:bible:notes:1sa:27:11|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

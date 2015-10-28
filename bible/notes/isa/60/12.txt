@@ -1,0 +1,75 @@
+====== Isaiah 60:12-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 And the kingdoms and nations whose people refuse to allow you to rule them will be completely destroyed \f + \ft doublet \f*.
+\q1
+\v 13 The glorious\f + \ft Or: beautiful \f* things in Lebanon will be brought to you—
+\q2 \add lumber from\add* cypress trees and fir trees and pine trees—
+\q1 to be used to enable my temple to be beautiful.
+\q2 When that is done, my temple \f + \ft metonymy \f* will truly be glorious!
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 And the kingdoms and nations whose people refuse to allow you to rule them will be completely destroyed.
+\q1
+\v 13 The glorious things in Lebanon will be brought to you—
+\q2 lumber from cypress trees and fir trees and pine trees—
+\q1 to be used to enable my temple to be beautiful.
+\q2 When that is done, my temple will truly be glorious!
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 12 Indeed, nations and kingdoms that will not serve you will perish; those nations will be completely destroyed.
+\q1
+\v 13 The glory of Lebanon will come to you, the cypress tree, the fir, and the pine together, 
+\q1 to beautify my
+sanctuary; and I will glorify the place of my feet.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:tpi:obe:other:nation]]
+  * [[:tpi:obe:other:kingdom]]
+  * [[:tpi:obe:other:serve]]
+  * [[:tpi:obe:kt:perish]]
+  * [[:tpi:obe:other:lebanon]]
+  * [[en:obe:other:fir]]
+  * [[:tpi:obe:kt:sanctuary]]
+  * [[:tpi:obe:kt:glorify]]
+
+===== Translation Notes: =====
+Yahweh continues speaking to the people of Israel.
+
+    * **those nations will be completely destroyed** - AT: "I will completely destroy the people of those nations" (See: [[:tpi:ta:vol2:translate:figs_activepassive]])
+    * **The glory of Lebanon will come to you** - AT: "The people of Lebanon will bring you all of their glorious things"
+    * **the place of my feet** - This refers to Yahweh's temple. (See: [[:tpi:ta:vol2:translate:figs_metonymy]])
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:60|Isaiah Chapter 60 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/isa/60/10|<<]] | [[en/bible/notes/isa/60/14|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>review}}
+
+~~NOCACHE~~

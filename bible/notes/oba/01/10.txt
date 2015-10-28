@@ -1,0 +1,68 @@
+====== Obadiah 01:10-11 ======
+
+===== TFT: =====
+
+<usfm>
+\v 10 "You acted cruelly to your relatives who are descendants of Jacob, \add the twin brother of your ancestor Esau\add*.
+\q2 So now you will be disgraced, and you will be destroyed forever.
+\q1
+\v 11 Foreigners entered the gates of Jerusalem
+\q2 and cast lots\f + \ft Or: threw small stones that were marked \f* to decide what valuable things they would take away;
+\q1 but you were as bad as those foreigners,
+\q2 because you just stood there and did not help the Israelites.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 10 "You acted cruelly to your relatives who are descendants of Jacob, the twin brother of your ancestor Esau.
+\q2 So now you will be disgraced, and you will be destroyed forever.
+\q1
+\v 11 Foreigners entered the gates of Jerusalem
+\q2 and cast lots to decide what valuable things they would take away;
+\q1 but you were as bad as those foreigners,
+\q2 because you just stood there and did not help the Israelites.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 10 Becasue of the violence done to your brother Jacob, you will be covered with shame, and you will be cut off forever.
+\v 11 On the day you stood aloof, on the day strangers carried away his wealth, and foreigners
+entered into his gates, and cast lots upon Jerusalem, you were like one of them.
+</usfm>
+
+===== Important Terms: =====
+
+  * brother
+  * [[:tpi:obe:other:jacob|Jacob, Israel]]
+  * [[:tpi:obe:other:shame|shame, shameful, ashamed]]
+  * [[:tpi:obe:kt:cutoff|cut off]]
+  * forever
+  * gate
+  * lots, casting lots
+  * [[:tpi:obe:other:jerusalem|Jerusalem]]
+
+===== Translation Notes: =====
+
+Obadiah has just told the people of Edom that they will be tricked and their wise men will be killed. 
+
+  * **you will be covered with shame **- "shame will cover you." (See: [[:tpi:ta:vol2:translate:figs_activepassive]])
+  * **cut off forever** -"destroyed forever"
+  * **you stood aloof, on the day strangers carried away his wealth **-"you stood apart, on the day strangers carried away his wealth" AT: "You watched while strangers carried Israel's wealth away"
+  * **aloof** - "apart" or "indifferent"
+  * **foreigners entered his gates** - The word "foreigners" refers to "non-native people."
+  * **cast lots upon Jerusalem** - The words "cast lots" mean "gambled" or "made bets." 
+===== Links: =====
+
+  * **[[:tpi:bible:questions:comprehension:oba:01|Obadiah Chapter 01 Comprehension Questions]]**
+**[[:tpi:bible:notes:oba:01:07|<<]] | [[:tpi:bible:notes:oba:01:12|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

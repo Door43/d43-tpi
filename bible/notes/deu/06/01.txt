@@ -1,0 +1,67 @@
+====== Deuteronomy 06:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 "These are the commandments and rules and regulations that Yahweh our God commanded me to teach to you. He wants you to obey them in the land that you are about to enter and occupy.
+\v 2 He wants you to have an awesome respect for him, and he wants you and your descendants to always obey all these rules and regulations that I am giving to you, in order that you may live for a long time.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 "These are the commandments and rules and decrees that Yahweh our God commanded me to teach to you. He wants you to obey them in the land that you are about to enter and occupy.
+\v 2 He wants you to honor him, and he wants you and your descendants to always obey all these rules and regulations that I am giving to you, in order that you may live for a long time.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 6
+\p
+\v 1 Now these are the commandments, statutes, and decrees that Yahweh your God has commanded me to teach you, so that you might keep them in the land that you are going over the Jordan to possess;
+\v 2 so that you might honor Yahweh your God, so as to keep all his statutes and commandments that I am commanding you—you, your sons, and your sons’ sons, all the days of your lives, so that your days may be prolonged.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:tpi:obe:other:command|command, to command, commandment]]
+  * [[:tpi:obe:other:statute|statute, statutes]]
+  * [[:tpi:obe:other:decree|decree]]
+  * [[:tpi:obe:kt:yahweh|Yahweh]]
+  * [[:tpi:obe:kt:god|God]]
+  * teach
+  * land
+  * [[:tpi:obe:other:jordanriver|Jordan River]]
+  * [[:tpi:obe:other:possess|possess, possession]]
+  * [[:tpi:obe:other:honor|honor]]
+  * [[:tpi:obe:kt:life|life, live, living, alive]]
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:06|Deuteronomy Chapter 06 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/05/32|<<]] | [[en/bible/notes/deu/06/03|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

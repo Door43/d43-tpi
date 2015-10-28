@@ -1,0 +1,56 @@
+====== Judges 08:1 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Then the descendants of Ephraim said to Gideon, "Why did have you acted toward us like this? When you went out to fight against the people of Midian, why did you not summon us \add to help you\add*?" They rebuked Gideon severely.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Then the soldiers from the tribe of Ephraim said to Gideon, "Why did have you acted toward us like this? When you went out to fight against the army of Midian, why did you not call us to help you?" They were very angry and they used physical force with Gideon show how upset they were.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 8
+\p
+\v 1 The men of Ephraim said to Gideon, “What is this you have done to us? You did not call us when you went to fight against Midian.” And they argued with him him with force.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:ephraim]]
+  * [[en:obe:other:gideon]]
+  * [[en:obe:other:Midian]]
+
+===== Translation Notes: =====
+
+
+    * **What is this you have done to us?** - This question is asked to make Gideon think about what he had done. AT: "You have not treated us fairly." (See: [[:tpi:ta:vol1:translate:figs_rquestion]])
+    * **And they argued with him him with force**  - The word "force" could refer to physical force as in the UDB but probably is used to refer to how loud and angry they were as they argued. Possible meanings: 1) "and they used physical force with Gideon show how upset they were" or "And they passionately argued with him"
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jdg:08|Judges Chapter 08 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jdg/07/24|<<]] | [[en/bible/notes/jdg/08/02|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>review}}
+
+~~NOCACHE~~

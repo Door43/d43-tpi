@@ -1,0 +1,26 @@
+===== You Are Witnesses [42-08] =====
+
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-08.jpg?nolink}}
+
+“It was also written in the **scriptures** that my **disciples** will **proclaim** that everyone should **repent** in order to **receive forgiveness** for their **sins**. T**hey will do this starting in Jerusalem**, and then go to all **people groups** everywhere. **You are witnesses of these things**.”
+===== Important Terms: =====
+
+  * **[[:tpi:obe:kt:wordofgod]]**
+  * **[[:tpi:obe:kt:disciple]]**
+  * **[[:tpi:obe:kt:repent]]**
+  * **[[:tpi:obe:kt:receive]]**
+  * **[[:tpi:obe:kt:forgive]]**
+  * **[[:tpi:obe:kt:sin]]**
+  * **[[:tpi:obe:other:jerusalem]]**
+  * **[[:tpi:obe:other:peoplegroup]]**
+  * **[[:tpi:obe:kt:witness]]**
+
+
+===== Translation Notes: =====
+
+  * **proclaim** - That is, "announce" or, "preach."
+  * **They will do this starting in Jerusalem** - That is, "They will begin doing this in Jerusalem" or, "They will begin to proclaim these things in Jerusalem."
+  * **You are witnesses of these things** - That is, "You have seen these things happen" or, "You will tell other people the things that you have seen happen."
+
+
+**[[:tpi:obs:notes:frames:42-07|<<]] | [[:tpi:obs:notes:42|Up]] | [[:tpi:obs:notes:frames:42-09|>>]]**

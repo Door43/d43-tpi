@@ -1,0 +1,72 @@
+====== 1 Kings 12:28-30 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 28 So he consulted \add his advisors, and then he did what they suggested\add*. He \add told his workers to\add* make gold \add statues of\add* two calves. Then he said to the people, "You have been going to Jerusalem \add to worship\add* for a long time. It is a big trouble for you to continue going there. You people of Israel, look! These statues are the gods that brought our \add ancestors\add* up from Egypt! \add So you can worship these, here\add*!"
+\v 29 He \add told his workers to\add* place one of the statues in Bethel \add city in the south\add* and one in Dan \add city in the north\add*.
+\v 30 So \add what Jeroboam did caused\add* the people to sin. Some of them went and worshiped the calf at Bethel, and others went and worshiped the other calf at Dan.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 28 So he consulted his advisors, and then he did what they suggested. He told his workers to make gold statues of two calves. Then he said to the people, "You have been going to Jerusalem to worship for a long time. You are making too big an effort to keep going there. You people of Israel, look! These statues are the gods that brought our ancestors up from Egypt! So you can worship these, here!"
+\v 29 He told his workers to place one of the statues in the city of Bethel in the south and one in the city of  Dan in the north.
+\v 30 So what Jeroboam did caused the people to sin. Some of them went and worshiped the calf at Bethel, and others went and worshiped the other calf at Dan.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 28 So King Jeroboam sought advice and made two calves of gold; he said to the people, "It is too much for you to go up to Jerusalem. Look, these are your gods, Israel, who brought you up out of the land of Egypt."
+\v 29 He set up one in Bethel and the other in Dan.
+\v 30 So this act became a sin. The people went to one or the other, all the way  to Dan.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:tpi:obe:other:counselor]]
+  * [[:tpi:obe:other:cow]]
+  * [[:tpi:obe:other:gold]]
+  * [[:tpi:obe:other:bethel]]
+  * [[:tpi:obe:other:dan]]
+  * [[:tpi:obe:kt:sin]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **It is too much for you** - The speaker is exaggerating, trying to convince the people that the trip to Jerusalem to worship is too far or too difficult for them.
+    * **Look, these are your gods** - Here the word “Look” is used to get the listener's attention and the speaker wants to show them something.
+    * **these are your gods** - The calves are referred to as substitutes for God (See: [[en:ta:vol2:translate:figs_metonymy]])
+    * **brought you up** - AT: "brought our ancestors up" (UDB). Here "you" refers to the ancestors of the people. (See: [[en:ta:vol2:translate:figs_metonymy]])
+    * **brought you up out of the land of Egypt** - This suggests being lifted up and carried out of or removed from a difficult situation. AT: "brought our ancestors from  Egypt to a new place." 
+    * **land of Egypt** - This is the place where the ancestors of the people were slaves. (See: [[en:ta:vol2:translate:figs_metonymy]])
+    * **all the way to Dan** - This suggests that Dan was a far distance for them to travel, even further than going to Jerusalem.
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:1ki:12|1 Kings Chapter 12 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1ki/12/25|<<]] | [[en/bible/notes/1ki/12/31|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

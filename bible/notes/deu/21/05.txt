@@ -1,0 +1,62 @@
+====== Deuteronomy 21:5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 The priests must go there also, because Yahweh our God has chosen them from the tribe of Levi to serve him and to be his representatives \f + \ft metonymy \f* when they bless people. And he has also chosen them to settle disputes in which someone has been injured.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 The priests must go there also, because Yahweh our God has chosen them from the tribe of Levi to serve him and to be his representatives when they bless people. And he has also chosen them to settle disputes in which someone has been injured.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 5 The priests, descendants of Levi, must come near; for them Yahweh your God has chosen to serve him and to bless the people in the name of Yahweh; listen to their advice, for their word will be the verdict in every dispute and case of assault.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:tpi:obe:kt:priest|priest, priesthood]]
+  * [[:tpi:obe:other:descendant|descendant]]
+  * [[:tpi:obe:other:levite|Levite, Levi]]
+  * Yahweh
+  * God
+  * [[:tpi:obe:kt:elect|chosen one, chosen people, Chosen One, the elect]]
+  * [[:tpi:obe:other:serve|serve]]
+  * [[:tpi:obe:kt:bless|bless, blessed, blessing]]
+  * [[:tpi:obe:other:peoplegroup|people group, people]]
+  * [[:tpi:obe:kt:name|name]]
+  * [[:tpi:obe:kt:word|word]]
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:21|Deuteronomy Chapter 21 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/21/03|<<]] | [[en/bible/notes/deu/21/06|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

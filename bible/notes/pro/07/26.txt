@@ -1,0 +1,59 @@
+====== Proverbs 07:26-27 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 26 She has caused many men to be ruined;
+\q2 truly, no one can count the men she has killed.
+\q1
+\v 27 The road to her house is the road to the grave.
+\q2 Those who enter her bedroom \f + \ft personification \f* will die as a result.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 26 She has caused many men to be ruined;
+\q2 truly, no one can count the men she destroyed— their number is too great to count.
+\q1
+\v 27 The road to her house is the road to the grave.
+\q2 It goes down to the place, the place with rooms where the dead are kept.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 26 She has brought down many victims  
+\q and the number of them cannot be counted.
+\q
+\v 27 Her house is on the road to Sheol,
+\q it goes down to the chambers of death.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:hades]]
+  * [[:En:obe:kt:death]]
+
+===== Translation Notes: =====
+
+  * **brought down**  - On the one hand it is an idiom for "ruined" (UDB) or "destroyed", but it also begins the metaphor of entering sheol which is always described as down. (See: [[:tpi:ta:vol1:translate:figs_idiom|Idiom]] and [[:tpi:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **Her house**  - AT: "She" (See: [[:tpi:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **Her house is on the road to sheol, it goes**  - AT: "Her destination is sheol; she is going down"
+  * **the rooms of death**
+ - This expression pictures the dead as lying in many different rooms in sheol. (See: [[:tpi:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **is on the road to sheol, it goes down to the rooms of death**  - These two phrases basically mean the same thing and are repeated to emphasize that the adulteress will be destroyed. (See: [[:tpi:ta:vol2:translate:figs_parallelism|Parallelism]])
+
+===== Links: =====
+
+  * **[[:tpi:bible:questions:comprehension:pro:07|Proverbs Chapter 07 Comprehension Questions]]**
+**[[:tpi:bible:notes:pro:07:24|<<]] | [[:tpi:bible:notes:pro:08:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

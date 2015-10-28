@@ -1,0 +1,83 @@
+====== Hosea 09:5-6 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 At that time you will not \f + \ft rhetorical question \f* be able to celebrate my feasts and sacred festivals.
+\q1
+\v 6 And even if you escape and are not killed \add by the Assyrians\add*,
+\q2 you will be captured by \add the army of\add* Egypt
+\q2 and you will \add die and\add* be buried in Memphis, \add the capital of Egypt\add*.
+\q1 Briers will \add grow up and\add* cover your treasures of silver,
+\q2 and thorns will grow in your ruined tents\f + \ft Or: houses \f*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 There, in a country far from your home, you will not be able to celebrate the festivals that Yahweh commanded you to celebrate.
+\q1
+\v 6 Look! If you escape and the  Assyrians do not kill you,
+\q2 the army of Egypt will capture you.
+\q2 You will die there, and the people in the city of Memphis will bury you.
+\q1 All your wealth in silver will become like the wilderness,
+\q2 and your houses, also.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 5 What will you do on the day of an appointed festival,
+\q on the day of a festival for Yahweh?
+\q
+\v 6 For, look, if they escape from destruction,
+\q Egypt will gather them,
+\q and Memphis will bury them.
+\q Their treasures of silver—
+\q sharp briers will overtake them,
+\q and thorns will fill their tents.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:tpi:obe:kt:appoint|appoint]]
+  * [[:tpi:obe:other:festival|festival]]
+  * [[:tpi:obe:kt:yahweh|Yahweh]]
+  * [[:tpi:obe:other:egypt|Egypt, Egyptian]]
+  * [[:tpi:obe:other:bury|bury, buried]]
+  * [[:tpi:obe:other:silver|silver]]
+  * [[:tpi:obe:other:tent|tent]]
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:hos:09|Hosea Chapter 09 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/hos/09/03|<<]] | [[en/bible/notes/hos/09/07|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

@@ -1,0 +1,63 @@
+====== Isaiah 61:1 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 The Spirit of Yahweh our Lord is on me;
+\q2 he has appointed \f + \ft metonymy \f* me to bring good news to those who are oppressed,
+\q1 to comfort those who are discouraged,
+\q2 to free all those who are \add as though they are chained\f + \ft Or: tied \f*\add* \f + \ft doublet \f* by their wrong things that they continually do.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 The Spirit of Yahweh our Lord is on me;
+\q2 he has appointed me to bring good news to those who are oppressed,
+\q1 to comfort those who are discouraged,
+\q2 to free all those who are as though they are chained by their wrong things that they continually do.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 61
+\p
+\q1
+\v 1 The Spirit of the Lord Yahweh is upon me, because Yahweh has anointed me 
+\q1 to proclaim good news to the humble. He has
+sent me to heal the broken-hearted, 
+\q1 to proclaim liberty to the captives, and the opening of the prison to those who are bound.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:tpi:obe:kt:holyspirit]]
+  * [[:tpi:obe:kt:lordyahweh]]
+  * [[:tpi:obe:kt:anoint]]
+  * [[:tpi:obe:kt:goodnews]]
+  * [[:tpi:obe:other:humble]]
+  * [[:tpi:obe:other:heal]]
+  * [[:tpi:obe:other:heart]]
+  * [[en:obe:other:proclaim]]
+  * [[en:obe:kt:free]]
+  * [[:tpi:obe:other:captive]]
+  * [[;en:obe:other:prison]]
+
+===== Translation Notes: =====
+
+  * **is upon me** - Here "me" refers to Yahweh's servant.
+  * **to proclaim liberty to the captives, and the opening of the prison to those who are bound** - The may mean that the servant will free the people who are in exile. It may also mean the servant will remove their sins.
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:61|Isaiah Chapter 61 Comprehension Questions]]**
+**[[:tpi:bible:notes:isa:60:21|<<]] | [[:tpi:bible:notes:isa:61:02|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

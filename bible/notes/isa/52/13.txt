@@ -1,0 +1,66 @@
+====== Isaiah 52:13-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 Yahweh says, "Listen carefully!
+\q2 My servant will act wisely \f + \ft Or: do the right things to accomplish what he wants to \f*,
+\q1 and I will highly exalt him."
+\q1
+\v 14 But many people will be appalled when they see what has happened to him.
+\q2 \add Because of his being beaten very badly\add*, his appearance will be changed;
+\q3 people will hardly recognize that he is a human.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 Yahweh says, "Listen carefully!
+\q2 My servant will act wisely and do all that I want him to do,
+\q1 and I will highly exalt him."
+\q1
+\v 14 But many people will be appalled when they see what has happened to him.
+\q2 Because he was beaten very badly, his appearance will be changed;
+\q3 people will hardly recognize that he is a human.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\q1
+\v 13 Look, my servant will deal wisely and will be successful; he will be exalted and lifted high, and will be very exalted.
+\q1
+\v 14 As many were horrified at you—
+\q1 his appearance was so disfigured from human appearance, so that his form was far from the sons of humanity—
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:tpi:obe:other:servant]]
+  * [[:tpi:obe:kt:wise]]
+  * [[:tpi:obe:kt:exalt]]
+ 
+
+===== Translation Notes: =====
+
+  * **he will be exalted and lifted high, and will be very exalted**  - The words "exalted" and "lifted high" and "very exhalted" mean basically the same thing and being repeated three times shows a great intensity of expression. AT for one single expression could be: "I will give my servant the greatest honor" (See the way you translated something similar in 6:1; 33:10 and 57:15.) (See: [[:tpi:ta:vol2:translate:figs_doublet|Doublet]] and [[:tpi:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **horrified at you**  - Here "you" refers to Yahweh's servant. (See: [[:tpi:ta:vol1:translate:figs_you|Forms of You]])
+  * **his appearance was so disfigured from human appearance, so that his form was far from the sons of humanity**  - AT: "His enemies beat his body so badly that he did not even look like a human anymore"
+
+===== Links: =====
+
+  * **[[:tpi:bible:questions:comprehension:isa:52|Isaiah Chapter 52 Comprehension Questions]]**
+**[[:tpi:bible:notes:isa:52:11|<<]] | [[:tpi:bible:notes:isa:52:15|>>]]**
+
+~~DISCUSSION~~{{tag>text}}
+
+~~NOCACHE~~

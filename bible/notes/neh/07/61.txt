@@ -1,0 +1,69 @@
+====== Nehemiah 07:61-63 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 61-62 Another group of 642 people from the clans of Delaiah, Tobiah, and Nekoda returned from the towns of Tel-Melah, Tel-Harsha, Kerub, Addan (\add who is also known as Addon\add*), and Immer \add in Babylonia\add*. But they could not prove that they were descendants of Israelites.
+\b
+\pi
+\v 63 Priests from the clans of Hobaiah, Hakkoz, and Barzillai also returned. Barzillai had married a woman who is a descendant of \add a man named\add* Barzillai from the Gilead \add region\add*, and he had taken his wife's family name.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 61-62 Another group of 642 people from the clans of Delaiah, Tobiah, and Nekoda returned from the towns of Telmelah, Telharsha, Kerub, Addan, also known as Addon, and Immer in Babylonia. But they could not prove that they were descendants of Israel.
+\b
+\pi
+\v 63 Priests from the descendants of Hobaiah, Hakkoz, and Barzillai also returned. Barzillai had married a woman who is a descendant of a man named Barzillai from the region of Gilead, and he had taken his wife's family name.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 61 And these were they who went up from Telmelah, Telharsha, Cherub, Addon, and Immer; but they could not prove that they or their ancestors' families were descendants from Israel.
+\v 62 The descendants of Delaiah who were the descendants of Tobiah and Nekoda, 642.
+\v 63 And of the priests: the descendants of Hobaiah, the descendants of Hakkoz, the descendants of Barzillai who took a wife of the daughters of Barzillai the Gileadite and was called after their name.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:family]]
+  * [[en:obe:other:descendant]]
+  * [[:tpi:obe:other:israel]]
+  * [[en:obe:kt:priest]]
+  * [[:tpi:obe:other:gilead]]
+  * [[:tpi:obe:kt:call]]
+  * [[:tpi:obe:kt:name]]
+ 
+===== Translation Notes: =====
+
+(See how you translated numbers in [[en:bible:notes:neh:07:11|07:11-14]].)
+
+    * **Telmelah...Telharsha...Cherub...Addon...Immer...Israel** - These are place names. (See: [[en:ta:workbench:translate:translatenames]])
+    * **Delaiah, Tobiah and Nekoda, Hobaiah, Hakkoz, Barzillai** - These are male names. (See: [[en:ta:workbench:translate:translatenames]])
+    * **The descendants of Delaiah who were the descendants of Tobiah and Nekoda** - "The descendants of Delaiah, the descendants of Tobiah, the descendants of Nekoda"
+    * **And of the priests** - AT: "And from the priests"
+    * **Gileadite** - This word designates a person who came from Gilead, a mountainous region east of the Jordan River, where the Israelite tribes of Gad, Reuben, and Manasseh lived. (See: [[en:ta:workbench:translate:translatenames]])
+    
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:neh:07|Nehemiah Chapter 07 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/neh/07/57|<<]] | [[en/bible/notes/neh/07/64|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>text}}
+
+~~NOCACHE~~

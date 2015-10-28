@@ -1,0 +1,85 @@
+====== Psalms 045:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 You who are a mighty warrior, put on your sword!
+\q2 You are glorious and majestic.
+\q
+\v 4 Ride on like a great chief
+\q2 to defend the truth that you speak
+\q2 and the fair decisions that you make!
+\q1 Because you are strong \f + \ft metonymy \f*,
+\q2 you will do awesome deeds.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 You who are a mighty warrior, put on your sword!
+\q2 You are glorious and majestic.
+\q
+\v 4 Ride on like a great king 
+\q2 to defend the truth that you speak
+\q2 and the fair decisions that you make!
+\q1 Because you are strong,
+\q2 you will do awesome deeds.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 Put your sword on your thigh, mighty one,
+\q your glory and your majesty.
+\q
+\v 4 In your majesty ride on triumphantly
+\q because of trustworthiness , meekness, and righteousness;
+\q your right hand will teach you fearful things.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:tpi:obe:other:sword]]
+  * [[:tpi:obe:other:mighty]]
+  * [[:tpi:obe:kt:glory]]
+  * [[:tpi:obe:kt:majesty]]
+  * [[:tpi:obe:kt:trust]]
+  * [[:tpi:obe:other:meek]]
+  * [[:tpi:obe:kt:righteous]]
+  * [[:tpi:obe:kt:righthand]]
+  * [[:tpi:obe:kt:fear]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:045|Psalms Chapter 045 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/045/001|<<]] | [[en/bible/notes/psa/045/005|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book2}}
+
+~~NOCACHE~~

@@ -1,0 +1,61 @@
+====== Judges 03:7-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 The Israelites did things that Yahweh said were very evil. They forgot about Yahweh, their God, and they started to worship the \add idols that represented\add* the god Baal and the goddess Asherah.
+\v 8 Yahweh became very angry with the Israelites. So he allowed king Cushan from Mesopotamia to conquer them and rule them for eight years.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 The Israelites did things that Yahweh said were very evil. They forgot about Yahweh, their God, and they started to worship the idols that represented the god Baal and the idols of the goddess Ashtaroth.
+\v 8 Therefore Yahweh was very angry with  Israel, and he handed them over that they might live under the power of King Cushan Rishathaim, he was king of Aram Naharaim (or Mesopotamia). The people of Israel served Cushan Rishathaim for eight years.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 7 The people of Israel did what was evil in the sight of Yahweh and forgot Yahweh their God. They worshiped the  Baals and the Ashtaroths.
+\v 8 Therefore the anger of Yahweh was kindled against Israel, and he sold them into the hand of Cushan Rishathaim king of Aram Naharaim. The people of Israel served Cushan Rishathaim for eight years.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:tpi:obe:kt:evil]]
+  * [[:En:obe:kt:yahweh]]
+  * [[:tpi:obe:other:mesopotamia]]
+  * [[:tpi:obe:other:serve]]
+  * [[:tpi:obe:other:baal]]
+  * [[en:obe:other:hand]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **They worshiped**  - The people of Israel worshiped
+    * **the anger of Yahweh was kindled**  - Yahweh's anger is being compared to a fire being lit. (See: [[:tpi:ta:vol1:translate:figs_metaphor]])
+    * **sold them into the hand of Cushan Rishathaim** - Allowing the people of Israel to be conquered is compared to being sold. AT: "allowed them to be conquered by Cushan Rishathaim" (See: [[:tpi:ta:vol1:translate:figs_metaphor]])
+    * **Cushan Rishathaim**  - This is the name of a man. (See: [[:tpi:ta:vol1:translate:translate_names]])
+    * **Aram Naharaim**  - This is the name of a country. (See: [[:tpi:ta:vol1:translate:translate_names]])
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jdg:03|Judges Chapter 03 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jdg/03/04|<<]] | [[en/bible/notes/jdg/03/09|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>review}}
+
+~~NOCACHE~~
