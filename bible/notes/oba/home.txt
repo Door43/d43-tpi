@@ -1,8 +1,0 @@
-===== Obadiah Links: =====
-
-  * [[:tpi:ulb:ep:31-oba.usfm|Full ULB text of Obadiah]]
-  * [[:tpi:udb:ep:31-oba.usfm|Full UDB text of Obadiah]]
-  * [[:tpi:bible:admin-reports:notes-team-admin:oba|Notes: Obadiah Team Admin]]
-  * [[:tpi:bible:team-info:training:notes-training|Notes Training]]
-
-<nspages en:bible:notes:oba:01 -title -naturalOrder -exclude:home -textPages="Obadiah 1" -nbCol=2>
