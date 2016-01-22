@@ -1,22 +1,25 @@
 
-----
-~~NOCACHE~~
-**Door43**
 
-  * [[tpi:home|Door43 (tpi)]]
-  * [[en:license|License]]
+----
+
+~~NOCACHE~~ **Door43**
+
+   * [[:tpi:home|Door43 (tpi)]]
+  * [[:en:license|License]]
 
 **Resources**
 
-  * [[tpi:obs|Open Bible Stories (tpi)]]
+  * [[:tpi:obs|Open Bible Stories (tpi)]]
 
 **Downloads**
 
-All content for this namespace is available in the [[https://github.com/Door43/d43-tpi|d43-tpi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tpi/archive/master.zip|d43-tpi.zip]]
+All content for this namespace is available in the [[https://github.com/Door43/d43-tpi|d43-tpi repository]]. To download it as a zip file, click [[https://github.com/Door43/d43-tpi/archive/master.zip|d43-tpi.zip]]
 
 **Recent Changes**
+
 {{changes>ns = tpi}}
 
 **Language Information**
 
 [[http://www.ethnologue.com/language/tpi|Ethnologue data]]
+
