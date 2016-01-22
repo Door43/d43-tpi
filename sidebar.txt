@@ -1,15 +1,50 @@
 
-
 ----
 
-~~NOCACHE~~ **Door43**
+**Door43 **
 
-   * [[:tpi:home|Door43 (tpi)]]
-  * [[:en:license|License]]
+   * [[:tpi:home|Home (Tok Pisin)]]
+
+**Help**
+
+  * [[:tpi:ta|translationAcademy]]
+  * [[:tpi:get-started|How to Get Started]]
+  * [[:tpi:obs:help|Open Bible Stories Help]]
 
 **Resources**
 
-  * [[:tpi:obs|Open Bible Stories (tpi)]]
+  *  [[:tpi:obs|Open Bible Stories]]
+      * [[:tpi:obs:notes|translationNotes]]
+      * [[:tpi:obs:notes:questions:home|translationQuestions]]
+      * [[:tpi:obe:home|translationWords]]
+  *  [[:tpi:bible:intro|Bible]]
+      * [[:tpi:ulb:ep:home|Unlocked Literal Bible]]
+      * [[:tpi:udb:ep:home|Unlocked Dynamic Bible]]
+      * [[:tpi:bible:notes:home|translationNotes]]
+      * [[:tpi:bible:questions:comprehension:home|translationQuestions]]
+      * [[:tpi:obe:home|translationWords]]
+  * [[:tpi:lexicon|Open Bible Lexicon]]
+  *  [[:tpi:library|Open Christian Library]]
+      * [[:tpi:pet|Plain English Translation]]
+      * [[:tpi:library:t4t:home|Translation for Translators]]
+  * [[:tpi:ta|translationAcademy]]
+      * [[:tpi:ta:vol1:intro:toc_intro|Introduction]]
+      * [[:tpi:ta:vol1:translate:toc_transvol1_2|Translation Manual]]
+      * [[:tpi:ta:vol1:checking:toc_checkvol1_2|Checking Manual]]
+      * [[:tpi:ta:vol1:tech:toc_techvol1_2|Technology Manual]]
+      * [[:tpi:ta:vol1:process:toc_processvol1_2|Process Manual]]
+
+**About Door43**
+
+  * [[:tpi:ta:vol1:intro:statement_of_faith|Statement of Faith]]
+  * [[:tpi:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+  * [[:tpi:ta:vol1:intro:open_license|Copyrights & Licensing]]
+
+**Door43 Development**
+
+  * [[:tpi:dev|Development Projects]]
+
+~~NOCACHE~~
 
 **Downloads**
 
@@ -21,5 +56,5 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 **Language Information**
 
-[[http://www.ethnologue.com/language/tpi|Ethnologue data]]
+[[http://www.ethnologue.com/language/eng|Ethnologue data]]
 
