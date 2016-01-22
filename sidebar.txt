@@ -18,7 +18,7 @@
       * [[:tpi:obs:notes:questions:home|translationQuestions]]
       * [[:tpi:obe:home|translationWords]]
   *  [[:tpi:bible:intro|Bible]]
-      * [[:tpi:ulb:ep:home|Unlocked Literal Bible]]
+      * [[:tpi:ulb:ep:home|Unlocked Literal Bible Tok Pisin]]
       * [[:tpi:udb:ep:home|Unlocked Dynamic Bible]]
       * [[:tpi:bible:notes:home|translationNotes]]
       * [[:tpi:bible:questions:comprehension:home|translationQuestions]]
