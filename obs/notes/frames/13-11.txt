@@ -8,7 +8,7 @@ For many days, **Moses** was on top of **Mount Sinai** talking with **God**. **T
 
 
   * **[[:tpi:obe:other:moses]]**
-  * **[[:tpi:obe:kt:sinai]]**
+  * **[[:tpi:obe:other:sinai]]**
   * **[[:tpi:obe:kt:god]]**
   * **[[:tpi:obe:other:aaron]]**
   * **[[:tpi:obe:other:idol]]**
