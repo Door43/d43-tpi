@@ -2,7 +2,8 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-10.jpg?nolink&}}
 
-**The famine was severe** not only in **Egypt**, but also in **Canaan** where **Jacob** and his family lived.
+Taim bilong bikpela hangre i no kamap long Isip tasol, em i kamap tu long Kenan we Jekop wantaim ol lain bilong em i stap.
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:other:egypt]]**
