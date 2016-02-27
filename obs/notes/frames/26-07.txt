@@ -1,8 +1,9 @@
 ===== The Attempt to Kill Jesus [26-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-07.jpg?nolink&}}
 
-The people of **Nazareth** dragged **Jesus** out of the **place of worship** and brought him to the edge of a cliff to throw him off of it in order to kill him. **But Jesus walked through the crowd** and left the town of Nazareth.
+Ol manmeri bilong Nasaret i pulim Jisas long ples bilong lotu na kisim em i go long ples nogut long tromoi em i go daun long kilim em, tasol Jisas i wokabaut namel long ol manmeri na lusim taun na i go.
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:other:nazareth]]**
