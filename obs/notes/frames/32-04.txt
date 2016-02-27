@@ -1,8 +1,9 @@
 ===== Living among the Tombs [32-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-04.jpg?nolink&}}
 
-The man lived **among the tombs** in the area. This man would scream all day and all night. He did not wear clothes and cut himself repeatedly with stones.
+Dispela man i stap namel long matmat long dispela hap. Dispela man i save singaut bikmaus olgeta de na long nait. Em i no save pasim klos na katim skin bilong em wantaim ston gen na gen.
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:other:tomb]]**
