@@ -1,8 +1,9 @@
 ===== The King Heard [29-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-07.jpg?nolink&}}
 
-“Some other **servants** saw **what had happened** and **were greatly disturbed**. They went to the **king** and told him **everything**.”
+“Ol arapela wanwok i lukim samting i bin kamap na ol i bel hevi tru. Na ol i go long king na stori long olgeta samting i bin kamap.”
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:other:servant]]**
