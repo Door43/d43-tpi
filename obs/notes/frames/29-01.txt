@@ -1,8 +1,9 @@
 ===== How Many Times? [29-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?nolink&}}
 
-**One day**, **Peter** asked **Jesus**, “**Master**, how many times should I **forgive my brother** when he **sins against me**? As many as seven times?” Jesus said, “**Not seven times**, **but seventy times seven**!” **By this, Jesus meant** that we should always forgive. Then Jesus told the following story.
+Wanpela de Pita i askim Jisas olsem, “Bikpela, hamas taim bai mi mas lusim sin bilong brata bilong mi taim em i mekim sin long mi? Ating bai mi lusim sin bilong em 7-pela taim a?” Na Jisas i tok, “I no 7-pela taim, Nogat, 70 taim 7-pela taim!” Em i olsem yumi mas lusim sin bilong arapela olgeta taim. Na Jisas i mekim dispela stori.
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:other:peter]]**
