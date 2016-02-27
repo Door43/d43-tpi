@@ -1,8 +1,9 @@
 ===== Spiritual Fruit [33-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?nolink&}}
 
-“But the **good soil is a person** who hears the **word of God**, **believes** it, and **produces fruit**.”
+Tasol gutpela graun i olsem ol manmeri husat i harim gut tok bilong God na bilip long en, i karim planti kaikai.
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:good]]**
