@@ -1,8 +1,9 @@
 ===== Sell Everything [28-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-04.jpg?nolink&}}
 
-**Jesus** answered, “If **you** want to be **perfect**, then go and sell **everything you own** and give the money to the poor, and you will have **treasure in heaven**. Then come and follow me.”
+Na Jisas i bekim tok olsem,“Sapos yu laik kamap nambawan, orait yu go na salim olgeta samting yu gat, na kisim mani i go na givim ol rabisman na kam bihainim mi na bai yu kisim olgeta gutpela samting long heven.”
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:jesus]]**
