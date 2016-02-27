@@ -1,8 +1,9 @@
 ===== The Tax Collector's Prayer [34-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-09.jpg?nolink&}}
 
-“But the **tax collector stood far away** from the **religious leader**, and **did not even look up to heaven**. Instead, **he pounded on his chest with his fist** and **prayed**, ‘**God**, please be **merciful** to me because I am a **sinner**.’”
+“Tasol man bilong kisim takis i sanap longwe liklik long lida bilong haus lotu, na i no lukluk i go long heven. Long wanem em i paitim bros bilong em wantaim han na prea. 'God, plis marimari long mi, long wanem mi sin man.”
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:other:taxcollector]]**
