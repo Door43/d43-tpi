@@ -1,8 +1,9 @@
 ===== The Perfect Pearl [34-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-05.jpg?nolink&}}
 
-“The **kingdom of God** is also like a **perfect pearl of great value**. When a **pearl merchant** found it, he sold all that he had and used the money to buy it.”
+Kingdom bilong God i olsem naispela pel i gat gutpela prais. Taim man bilong baim pel i painim, em i salim olgeta samting bilong em, na yusim dispela mani long baim dispela pel.
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:kingdomofgod]]**
