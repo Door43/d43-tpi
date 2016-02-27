@@ -1,8 +1,9 @@
 ===== Jesus Called Peter [31-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-05.jpg?nolink&}}
 
-Then **Peter** said to **Jesus**, “**Master**, **if it is you**, command me to come to you on the water.” Jesus told Peter, “**Come**!”
+Na Pita i tokim Jisas, “Masta, sapos em yu, inap yu tokim mi na mi ken kam long yu antap long wara.” Jisas i tokim Pita, “Yu kam!”
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:other:peter]]**
