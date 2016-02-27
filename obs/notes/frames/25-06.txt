@@ -1,8 +1,9 @@
 ===== The Third Temptation [25-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-06.jpg?nolink&}}
 
-Then **Satan** showed **Jesus** all the **kingdoms of the world** and all **their glory** and said, “**I will give you all this** if you bow down and **worship** me.”
+Na Satan i soim Jisas long olgeta strong na pawa bilong graun wantaim ol gutpela bilas bilong en, na tok olsem, “Bai mi givim dispela olgeta samting long yu, sapos yu brukim skru na lotu long mi.”
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:satan]]**
