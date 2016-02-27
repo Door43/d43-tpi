@@ -1,8 +1,9 @@
 ===== My Name Is Legion [32-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-06.jpg?nolink&}}
 
-The **man with the demon cried out** in a loud voice, “**What do you want with me**, **Jesus**, **Son** of **the Most High God**? Please do not torture me!” Then Jesus asked the demon, “What is your name?” **He replied**, “My name is **Legion**, because **we are many**.” (A “legion” was a group of several thousand soldiers in the Roman army.)
+Dispela man wantaim spirit nogut i singaut olsem, “Yu laikim wanem samting long mi, Jisas Pikinini bilong God Antap tru? Plis noken bagarapim mi!” Na Jisas i askim spirit nogut, “Wanem em nem bilong yu?” Em i bekim tok, “Nem bilong mi em Lijen, long wanem mipela i planti.” (Lijen em wanpela grup i gat sampela tausen soldia long ami bilong Rom).
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:demonpossessed]]**
