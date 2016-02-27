@@ -1,8 +1,9 @@
 ===== Jesus in Nazareth [26-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-02.jpg?nolink&}}
 
-**Jesus** went to the town of **Nazareth** where he had lived during his childhood. On the **Sabbath**, he went to the **place of worship**. They handed him the **scroll of the prophet Isaiah** so that he would read from it. Jesus **opened up the scroll** and read part of it to the people.
+Jisas i go long taun Nasaret, dispela ples em i bin stap long taim em i mangi yet. Na long Sabat em i go long ples bilong lotu na ol i givim em buk bilong profet Aisaia long em i ken ritim. Jisas i opim buk na ritim hap tok i go long ol manmeri.
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:jesus]]**
