@@ -1,8 +1,9 @@
 ===== The People Were Hungry [30-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-04.jpg?nolink&}}
 
-**Late in the day**, the **disciples** told **Jesus**, “It is late and there are no towns nearby. **Send the people away** so they can go get something to eat.”
+Long apinun ol disaipel i tokim Jisas, “Em i apinun pinis na i nogat ol ples i stap klostu. Salim ol manmeri i go bai ol i ken painim sampela kaikai long kaikai.”
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:disciple]]**
