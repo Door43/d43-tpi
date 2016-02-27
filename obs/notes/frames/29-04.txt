@@ -1,8 +1,9 @@
 ===== The Debt Is Canceled [29-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-04.jpg?nolink&}}
 
-“The **servant fell on his knees before the king** and said, ‘Please be patient with me, and I will pay the full amount that I owe you.’ The king **felt pity** for the servant, so he **canceled all of his debt** and let him go.”
+“Dispela wokman i pundaun na brukim skru long pes bilong King na i tok, “O bikman inap yu sori long mi na tok isi long mi, na bai mi ken bekim olgeta mani mi bin kisim long yu. “Na King i sori long wokman na em i rausim olgeta dinau bilong em na larim em i go.”
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:other:servant]]**
