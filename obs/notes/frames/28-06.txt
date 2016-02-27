@@ -1,8 +1,9 @@
 ===== The Camel and the Needle [28-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-06.jpg?nolink&}}
 
-Then **Jesus** said to his **disciples**, “It is extremely hard for rich people to **enter into the kingdom of God**! Yes, it is easier for a **camel** to go through the **eye of a needle** than for a rich man to enter the kingdom of God.”
+Bihain long dispela Jisas i tokim ol disaipel bilong em olsem,“Tru tumas, em i no isi long ol maniman bai i go insait long Kindom bilong God. Yes, em i isi long kamel i go insait long hul bilong nil bilong samap, tasol em i hat tumas long maniman long go insait long kindom bilong God.”
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:jesus]]**
