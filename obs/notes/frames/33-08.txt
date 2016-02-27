@@ -1,8 +1,9 @@
 ===== The Desire for Riches [33-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?nolink&}}
 
-“The **thorny ground is a person** who hears **God’s word**, but as time passes, the **cares**, **riches**, and **pleasures of life choke out** his **love** for **God**. As a result, the teaching he heard **does not produce fruit**.”
+“Graun i gat nil gras long en em i olsem manmeri i harim tok bilong God, tasol taim i go on na ol kago na bilas na amamas bilong laip i pasin laikim bilong ol long God. Dispela as wanem samting Jisas i skulim ol i no karim gutpela kaikai. Dispela graun i gat planti gras nogut i pasim sid kaikai i no karim kaikai.”
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:wordofgod]]**
