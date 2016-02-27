@@ -1,8 +1,9 @@
 ===== The Birth of Jesus [23-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-05.jpg?nolink&}}
 
-When they arrived in **Bethlehem**, there was **no place to stay**. The only room they could find was a **place where animals stayed**. The baby was born there and his mother laid him in a **feeding trough**, since they did not have a bed for him. They named him **Jesus**.
+Taim ol i kamap long Betlehem i no gat ples bilong ol long stap. Wanpela ples tasol tupela i painim em i haus bilong ol bulmakau. Tupela i stap long en na long nait Maria i karim pikinini bilong en na slipim em long bokis kaikai bilong bulmakau. Long wanem ol i nogat ples bilong putim pikinini. Na ol i kolim nem bilong em, Jisas.
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:other:bethlehem]]**
