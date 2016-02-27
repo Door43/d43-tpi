@@ -1,8 +1,9 @@
 ===== Do Not Test God [25-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-05.jpg?nolink&}}
 
-But **Jesus** replied to **Satan** by quoting from the **scriptures**. He said, “**In God's word**, **he commands his people**, ‘**Do not test the Lord your God**.’”
+Tasol Jisas i bekim tok bilong Satan wantaim tok bilong Baibel na tok, “Tok bilong God i tok strong long ol manmeri olsem, noken traim God Bikpela bilong yupela.”
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:jesus]]**
