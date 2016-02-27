@@ -1,8 +1,9 @@
 ===== Two Men at the Temple [34-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-06.jpg?nolink&}}
 
-Then **Jesus** told a **story** to some people who **trusted in their own good deeds** and **despised other people**. He said, “Two men went to the **Temple** to **pray**. One of them was a **tax collector**, and the other was a **religious leader**.”
+Na Jisas i stori long ol sampela manmeri husat i save putim tingting na bel bilong ol long gutpela pasin bilong ol yet na daunim arapela. Em i tok, “Tupela man i go prea long haus lotu. Wanpela bilong ol em man bilong kisim takis, na narapela em i lida bilong haus lotu.”
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:jesus]]**
