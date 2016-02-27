@@ -1,8 +1,9 @@
 ===== Healed by Faith [32-16] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-16.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-16.jpg?nolink&}}
 
-The woman **fell on her knees before Jesus**, **shaking and very afraid**. Then she told him what she had done, and that she had been healed. Jesus said to her, “**Your faith has healed you**. Go in **peace**.”
+Meri i pundaun long skru klostu long Jisas, em i guria na pret nogut tru. Na em i tokim Jisas wanem em i bin mekim na em i kamap orait. Na Jisas i tokim em, “Bilip bilong yu i mekim yu i kamap orait. Yu go wantaim bel isi.”
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:jesus]]**
