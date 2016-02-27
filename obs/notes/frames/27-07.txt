@@ -1,8 +1,9 @@
 ===== The Levite [27-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-07.jpg?nolink&}}
 
-“Not long after that, a Levite **came down the road**. (**Levites were a tribe of Jews** who helped the **priests** at the Temple.) The Levite also crossed over to the other side of the road and **ignored** the man who had been robbed and beaten.”
+“I no long taim wanpela Livai i wokabaut i kam daun long rot.(ol lain bilong Livai long Israel i save helpim ol pris long Tempel) Livai tu i kalapim rot i go long hapsait bilong rot na abrusim dispela man ol stilman i bin paitim na kisim ol samting bilong em na i go.”
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:other:jew]]**
