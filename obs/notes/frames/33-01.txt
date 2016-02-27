@@ -1,8 +1,9 @@
 ===== Jesus Taught the Crowds [33-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg?nolink&}}
 
-**One day**, **Jesus** was teaching a very large crowd of people near the shore of the lake. So many people came to hear him that Jesus got into a boat at the edge of the water in order to have enough space to speak to them. He sat in the boat and taught the people.
+Wanpela de, Jisas i skulim planti manmeri i stap klostu long arere bilong raunwara. Planti manmeri i kam long harim em. Jisas i stap arere long wara na kalap insait long wanpela bot long mekim spes long autim tok long ol. Na Jisas i sindaun insait long bot na skulim ol manmeri.
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:jesus]]**
