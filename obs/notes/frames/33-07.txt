@@ -1,8 +1,9 @@
 ===== Persecution and Hardship [33-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?nolink&}}
 
-“The **rocky ground is a person** who hears **God’s word** and **accepts it with joy**. But when he experiences hardship or **persecution**, he **falls away**.”
+Graun i gat ston long en i olsem ol manmeri husat i harim tok bilong God na kisim wantaim amamas. Tasol taim ol i bungim hevi na traim ol i pundaun.
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:wordofgod]]**
