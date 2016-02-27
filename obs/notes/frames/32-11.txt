@@ -1,8 +1,9 @@
 ===== Go Home [32-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-11.jpg?nolink&}}
 
-But **Jesus** said to him, “No, I want you to go home and tell your friends and family about everything that **God** has done for you and **how he has had mercy on you**.”
+Tasol Jisas i tokim em, “Nogat, mi laik yu go long haus na tokim ol pren na famili bilong yu long olgeta samting God i bin mekim long yu na olsem wanem em i bin marimari long yu.”
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:jesus]]**
