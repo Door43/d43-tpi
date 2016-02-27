@@ -1,8 +1,9 @@
 ===== Preparing the Way [24-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-04.jpg?nolink&}}
 
-**John** said to the **religious leaders**, “**You poisonous snakes**! **Repent** and change your behavior. **Every tree that does not bear good fruit will be cut down and thrown into the fire**.” **John fulfilled** what the **prophets** said, “**See**, I send **my messenger ahead of you**, who will **prepare your way**.”
+Na Jon i tokim ol hetman bilong haus lotu olsem, “Yupela ol posin snek, yupela i mas tanim bel na senisim pasin bilong yupela. Olgeta diwai i no save karim gutpela kaikai, bai ol i katim na tromoi i go long paia.” Jon i inapim tok ol profet i bin tok, “Mi salim wokman bilong mi i go pas long yu long stretim rot bilong yu.”
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:other:johnthebaptist]]**
