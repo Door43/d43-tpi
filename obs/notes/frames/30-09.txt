@@ -1,8 +1,9 @@
 ===== More than Enough [30-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-09.jpg?nolink&}}
 
-After that, the **disciples** collected the food that had not been eaten and it was enough to fill twelve baskets! All the food came from the five loaves of bread and two fish.
+Ol i kaikai pinis na bihain ol disaipel i bungim ol hap kaikai na pulimapim long 12-pela basket. Olgeta dispela kaikai i kamap long 5-pela bret na 2-pela pis.
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:disciple]]**
