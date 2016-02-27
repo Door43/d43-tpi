@@ -1,9 +1,9 @@
 ===== The Lawyer's Question [27-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-01.jpg?nolink&}}
 
+Wanpela de, wanpela saveman bilong Juda i kam long Jisas na traim em na tok olsem, “Tisa, bai mi mekim wanem samting long kisim laip i stap oltaim oltaim?” Na Jisas i tok, “Wanem tok i stap long lo bilong God?”
 
-**One day**, an **expert in the Jewish law** came to **Jesus to test him**, saying, “**Teacher**, what must I do **to inherit eternal life**?” Jesus answered, “**What is written in God's law**?”
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:jesus]]**
