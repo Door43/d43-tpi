@@ -1,8 +1,9 @@
 ===== The Country of the Gerasenes [32-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-01.jpg?nolink&}}
 
-**One day**, **Jesus** and his **disciples** went in a boat across the lake to the region where **the Gerasene people** lived.
+Wanpela de Jisas wantaim ol disaipel i brukim raunwara na i go hapsait long bot long ples we ol Gerisen i stap long em.
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:jesus]]**
