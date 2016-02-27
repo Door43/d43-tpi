@@ -1,8 +1,9 @@
 ===== God's Word Gives Life [25-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-03.jpg?nolink&}}
 
-**Jesus** replied, “It is written in **God’s word**, ‘People do not only need **bread** in order to live, **but they need every word that God speaks**!’”
+Na Jisas i bekim tok olsem, “Tok bilong God i tok olsem, ol manmeri i no inap i stap laip long bret tasol, ol i mas bihainim olgeta tok bilong God!”
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:jesus]]**
