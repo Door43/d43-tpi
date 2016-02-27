@@ -1,8 +1,9 @@
 ===== The First and the Last [28-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-10.jpg?nolink&}}
 
-**Jesus** answered, “Everyone who **has left** houses, brothers, sisters, father, mother, children, or property **for my sake**, will receive **100 times more** and will also receive **eternal life**. But **many who are first will be last**, and **many who are last will be first**.”
+Na Jisas i bekim tok olsem, “Olgeta manmeri husat i lusim ol haus na ol brata na ol susa na ol papa na mama na ol pikinini na ol samting bilong ol long nem bilong mi, ol bai kisim samting 100 taim moa na kisim laip i stap oltaim oltaim. Tasol, ol planti lain i go pas bai kam bihain na ol lain husat i kam bihain bai i go paslain.”
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:jesus]]**
