@@ -1,8 +1,9 @@
 ===== The Two Disciples [42-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-01.jpg?nolink&}}
 
-On the day that **Jesus** was **raised** from the dead, two of his **disciples** were going to a nearby town. As they walked, they talked about what had happened to Jesus. They had hoped that he was the **Messiah**, but then he was killed. Now the women said he was **alive** again. They did not know what to **believe**.
+De Jisas i bin kirap bek long dai, tupela disaipel bilong em i wokabaut i go long wanpela taun i stap klostu. Ol i wokabaut i go na ol i toktok long wanem samting i bin kamap long Jisas. Ol i ting Jisas em Mesaia, tasol ol bin kilim em. Nau ol meri i tok em i stap laip gen. Tupela i no save long wanem samting ol i ken bilip long en.
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:jesus]]**
