@@ -1,8 +1,9 @@
 ===== Lazarus Was Sick [37-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-01.jpg?nolink&}}
 
-One day, **Jesus** received a message that **Lazarus** was very sick. Lazarus and his two sisters, **Mary** and Martha, were close friends of Jesus. When Jesus heard this news, he said, “**This sickness will not end in death**, but **it is for the glory of God**.” Jesus **loved** his friends, **but he waited where he was for two days**.
+Wanpela taim Jisas i kisim tok olsem Lasarus i sik nogut tru. Lasarus na tupela susa bilong em, Maria na Mata tupela i stap gutpela pren bilong Jisas. Taim Jisas i harim dispela em i tok, “Dispela sik i no inap pinis long dai. Tasol dispela em bilong givim glori long God. Jisas i laikim ol pren bilong em, tasol em i wet long dispela hap tupela de moa.
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:jesus]]**
