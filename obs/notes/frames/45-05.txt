@@ -1,8 +1,9 @@
 ===== Stephen's Prayer [45-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-05.jpg?nolink&}}
 
-**As Stephen was dying**, he **cried out**, “**Jesus**, **receive** my **spirit**.” Then he fell to his knees and cried out again, “**Master**, **do not count this sin against them**.” Then he **died**.
+Taim Stiven i laik lusim laip, em i singaut na tok, “Jisas, kisim spirit bilong mi.'' Na em i pundaun i go daun long skru bilong em na i singaut gen olsem, “Masta, noken bekim dispela pasin nogut ol i mekim long mi.” Na em i dai.
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:jesus]]**
