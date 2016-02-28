@@ -1,8 +1,9 @@
 ===== Mary Met Jesus [37-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-06.jpg?nolink&}}
 
-Then **Mary** arrived. She **fell at the feet of Jesus** and said, “**Master**, if only you had been here, **my brother would not have died**.” Jesus asked them, “Where have you put **Lazarus**?” They told him, “In the **tomb**. Come and see.” Then Jesus wept.
+Maria i kam na em i pundaun i go daun long lek bilong Jisas na i tok, “Masta, sapos yu bin i stap hia, brata bilong mi i no inap dai.” Jisas i askim ol, “Yupela i putim Lasarus long wanem hap?” Ol i tokim em, “Em i stap insait long matmat, kam na lukim.” Jisas i krai.
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:jesus]]**
