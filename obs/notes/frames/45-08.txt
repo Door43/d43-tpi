@@ -1,8 +1,9 @@
 ===== The Ethiopian Read Isaiah [45-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-08.jpg?nolink&}}
 
-When Philip **approached the chariot**, he heard the **Ethiopian** reading from what the **prophet Isaiah** wrote. The man read, “They led him like a **lamb** to be killed, and **as a lamb is silent**, he did not say a word. They treated him unfairly and did not respect him. **They took his life away from him**.”
+Orait taim Filip i go klostu long dispela karis, em i harim dispela man Itiopia i rit long wanem samting profet Aisaia i bin raitim. Dispela man i ritim olsem, “Ol i pulim em olsem wanpela pikinini sipsip long kilim em, tasol dispela sipsip i stap isi, em i no mekim wanpela tok. Ol i mekim pasin nogut na pasin i no stret long em. Na ol i kilim em i dai.”
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:other:chariot]]**
