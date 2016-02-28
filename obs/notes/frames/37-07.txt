@@ -1,8 +1,9 @@
 ===== Open the Tomb [37-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-07.jpg?nolink&}}
 
-The **tomb** was a cave with a stone rolled in front of its opening. When **Jesus** arrived at the tomb, **he told them**, “**Roll the stone away**.” But **Martha** said, “**He has been dead for four days**. There will be a bad smell.”
+Dispela matmat em i hul wantaim ston ol i save tanim tanim long pasim maus bilong em. Taim Jisas i kamap long matmat, em i tokim ol. “Tanim ston i go longwe.” Tasol Mata i tok, “Em i bin dai pinis inap 4-pela de, em bai smel nogut.”
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:other:tomb]]**
