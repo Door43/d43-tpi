@@ -1,8 +1,9 @@
 ===== Jesus Died [40-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-07.jpg?nolink&}}
 
-Then **Jesus** cried out, “**It is finished**! **Father**, I give my **spirit into your hand**s.” Then he **bowed his head** and **gave up his spirit**. When he **died**, there was an earthquake and the **large curtain** that separated the people from the presence of **God** in the **Temple** was torn in two, from the top to the bottom.
+Na Jisas i singaut na krai bikmaus, “Em i pinis! Papa mi givim spirit bilong mi i go long han bilong yu.” Na em daunim het bilong em na givim spirit bilong en i go. Taim em i dai, bikpela guria i kamap na bikpela laplap i banisim glori bilong God na manmeri, insait long Tempel i bruk long tupela hap, antap i go daun.
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:jesus]]**
