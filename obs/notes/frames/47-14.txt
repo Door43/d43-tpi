@@ -1,8 +1,9 @@
 ===== Letters to the Churches [47-14] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-14.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-14.jpg?nolink&}}
 
-**Paul** and other **Christian** leaders traveled to many cities, **preaching** and teaching people the **good news** about **Jesus**. They also wrote **many letters** to encourage and teach the **believers** in the **churches**. Some of these letters became books of the Bible.
+Pol na ol arapela Kristen lidaman i wokabaut i go long planti taun, na autim na skulim manmeri long gutnius bilong Jisas. Na tu, ol i raitim planti pas long helpim na skulim ol bilip manmeri insait long ol sios. Sampela bilong dispela pas, ol i kamap buk bilong Baibel.
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:other:paul]]**
