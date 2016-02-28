@@ -1,8 +1,9 @@
 ===== The Word of God [48-12] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-12.jpg?nolink&}}
 
-**Moses** was **a great prophet** who proclaimed the **word of God**. But **Jesus** is **the greatest prophet** of all. He is **God**, so everything he did and said were the actions and words of God. That is why Jesus is called the Word of God.
+Moses em i wanpela bikpela profet i bin tokaut long tok bilong God. Tasol Jisas em i Bikpela na nambawan profet. Em i God olsem na olgeta samting em i mekim na toktok, em i pasin bilong God. Olsem na ol i kolim em, Tok Bilong God.
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:other:moses]]**
