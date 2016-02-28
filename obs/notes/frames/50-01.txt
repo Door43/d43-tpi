@@ -1,8 +1,9 @@
 ===== The Church Is Growing [50-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-01.jpg?nolink&}}
 
-For almost 2,000 years, more and more people around the world have been hearing the **good news** about **Jesus** the **Messiah**. **The Church has been growing**. Jesus **promised** he would return **at the end of the world**. Though he has not yet come back, he will keep his promise.
+Klostu 2,000 yia nau, planti manmeri long olgeta hap graun i wok long harim gutnius bilong Jisas Mesaia. Na planti sios i wok long kamap. Jisas i promis olsem em bai kam bek long las de. Tru em i no kam yet tasol em bai inapim dispela promis em i bin mekim.
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:goodnews]]**
