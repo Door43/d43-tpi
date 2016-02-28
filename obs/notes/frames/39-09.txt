@@ -1,8 +1,9 @@
 ===== Jesus and Pilate [39-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-09.jpg?nolink&}}
 
-Early the next morning, the **Jewish leaders** brought **Jesus** to **Pilate**, the **Roman governor**. They hoped that Pilate would condemn Jesus as guilty and **sentence him to be killed**. Pilate asked Jesus, “Are you the **king of the Jews**?”
+Bikmonin long narapela de, ol lida bilong lain Juda i bringim Jisas i go long Pailet, em i Gavana bilong Rom. Ol i laikim Pailet bai tokaut long Jisas i mas i dai olsem em i gat asua. Na Pailet i askim Jisas, “Yu king bilong ol lain Juda?”
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:other:jewishleaders]]**
