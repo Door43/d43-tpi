@@ -1,8 +1,9 @@
 ===== The Weeds [50-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-06.jpg?nolink&}}
 
-“When the plants sprouted, the **servants** of the man said, ‘**Master**, you planted **good** seed in that field. So why are there weeds in it?’ The master answered, ‘**An enemy must have planted them**.’”
+Taim ol pikinini kaikai i kamap, wokman bilong dispela man i tok, “Bikman yu bin planim ol gutpela pikinini kaikai, tasol olsem wanem na dispela gras nogut i stap?” Na bikman i tok, “Ating birua i planim dispela gras nogut.”
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:other:servant]]**
