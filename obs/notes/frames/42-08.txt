@@ -1,8 +1,9 @@
 ===== You Are Witnesses [42-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-08.jpg?nolink&}}
 
-“It was also written in the **scriptures** that my **disciples** will **proclaim** that everyone should **repent** in order to **receive forgiveness** for their **sins**. T**hey will do this starting in Jerusalem**, and then go to all **people groups** everywhere. **You are witnesses of these things**.”
+“Narapela samting ol i raitim long tok bilong God i olsem, disaipel bilong mi ol bai autim tok long olgeta manmeri na tokim ol long tanim bel na God bai lusim sin bilong ol. Dispela wok bilong autim tok ol disaipel bai stat long Jerusalem, na bihain bai ol i ken i go long olgeta lain manmeri long olgeta hap. Olgeta samting i bin kamap em yupela i lukim na harim pinis.”
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:wordofgod]]**
