@@ -1,8 +1,9 @@
 ===== The Burial of Jesus [40-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-09.jpg?nolink&}}
 
-Then **Joseph** and Nicodemus, two **Jewish leaders** who **believed Jesus** was the **Messiah**, **asked Pilate for Jesus’ body**. They wrapped his body in cloth and placed it in a **tomb** cut out of rock. Then they rolled a large stone in front of the tomb to block the opening.
+I gat tupela lida bilong lain Juda, nem bilong ol em Josep na Nikodimas, tupela i bilip olsem Jisas em i Mesaia. Tupela i askim Pailet long kisim bodi bilong Jisas. Ol i karamapim bodi long laplap na putim em insait long ston matmat. Bihain tupela i tanim wanpela bikpela ston na pasim maus bilong dispela matmat.
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:other:jewishleaders]]**
