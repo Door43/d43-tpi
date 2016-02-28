@@ -1,8 +1,9 @@
 ===== This Is My Body [38-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-04.jpg?nolink&}}
 
-In Jerusalem, **Jesus celebrated** the **Passover** with his **disciples**. During the Passover meal, Jesus **took some bread** and **broke it**. He said, “Take and eat this. This is my body, which is **given for you**. **Do this to remember me**.” In this way, Jesus said that his body would be **sacrificed** for them.
+Long Jerusalem Jisas i amamasim Pasova wantaim ol disaipel bilong em. Taim bilong Pasova kaikai Jisas i kisim sampela bret na brukim na i tok, “Dispela em i bodi bilong mi, mi givim long yupela. Taim yupela i kaikai dispela yupela i ken tingim mi.” Long dispela rot , Jisas i tok olsem bodi bilong em bai i kamap ofa bilong ol.
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:other:jerusalem]]**
