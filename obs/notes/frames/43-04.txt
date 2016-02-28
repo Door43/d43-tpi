@@ -1,9 +1,9 @@
 ===== The Crowd Gathered [43-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-04.jpg?nolink&}}
 
+Taim ol manmeri long Jerusalem i harim nois, planti moa arapela manmeri tu i kam long lukim wanem samting i kamap. Taim olgeta manmeri i harim ol bilip manmeri i tokaut long ol gutpela ol wok bilong God, olgeta yet i kirap nogut long harim dispela ol samting i kamap long wanwan tokples bilong ol yet.
 
-When the people in **Jerusalem** heard the noise, **a crowd** came to see what was happening. When the people heard the **believers** proclaiming **the wonderful works of God**, they were astonished that they were hearing these things in their own native languages.
 ===== Important Terms: =====
 
   * **[[:tpi:obe:other:jerusalem]]**
