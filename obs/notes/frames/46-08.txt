@@ -1,8 +1,9 @@
 ===== Saul Went to Jerusalem [46-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-08.jpg?nolink&}}
 
-**Saul went to Jerusalem** to meet with the **disciples**, but they were afraid of him. Then a **believer** named **Barnabas** took Saul to the **apostles** and told them how Saul had **preached** boldly in Damascus. After that, the disciples **accepted Saul**.
+Sol i go long Jerusalem long bungim ol disaipel, tasol ol disaipel i pret long em. Nau wanpela bilip man, nem bilong em Banabas em i kisim Sol i go long ol aposel, na tokim ol olsem, Sol em i autim gutnius long Damaskus strong tru. Bihain long dispela ol aposel i kisim Sol.
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:other:paul]]**
