@@ -1,8 +1,9 @@
 ===== Alone with Jesus [36-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-06.jpg?nolink&}}
 
-Then **Jesus touched them** and said, “**Do not be afraid**. **Get up**.” When they looked around, the **only one still there was Jesus**.
+Na Jisas i tasim ol na i tok, “No ken pret. Kirap.” Taim ol i lukluk raun, ol i lukim Jisas tasol i stap.
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:jesus]]**
