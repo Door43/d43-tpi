@@ -1,8 +1,9 @@
 ===== The Disciples in Jerusalem [43-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-01.jpg?nolink&}}
 
-After **Jesus returned to heaven**, the **disciples stayed in Jerusalem** as Jesus had commanded them to do. The **believers** there constantly gathered together to **pray**.
+Bihain long Jisas i go bek gen long heven, ol disaipel i stap long Jerusalem long wanem Jisas i bin tok strong long ol i mas mekim olsem. Ol bilip manmeri olgeta taim ol i save bung na beten.
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:jesus]]**
