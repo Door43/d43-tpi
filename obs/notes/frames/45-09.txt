@@ -1,8 +1,9 @@
 ===== Philip Met the Ethiopian [45-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-09.jpg?nolink&}}
 
-Philip asked the Ethiopian, “Do you understand what you are reading?” The Ethiopian replied, “No. I cannot understand it unless someone explains it to me. Please come and sit next to me. **Was Isaiah writing about** himself or someone else?”
+Filip i askim dispela man Itiopia olsem, “Yu save long wanem samting yu ritim?” Na man Itiopia i bekim na tok, “Nogat. Mi no save long as bilong dispela tok inap wanpela man i ritim na tokim mi. Inap yu kam antap na sindaun klostu long mi? Taim Aisaia i raitim dispela tok, em i raitim long em yet o long narapela man?”
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:other:isaiah]]**
