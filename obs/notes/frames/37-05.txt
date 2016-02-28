@@ -1,8 +1,9 @@
 ===== I Am the Resurrection [37-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-05.jpg?nolink&}}
 
-**Jesus** replied, “**I am the Resurrection and the Life**. Whoever **believes** in me **will live**, **even though he dies**. Everyone who believes in me **will never die**. Do you believe this?” **Martha** answered, “Yes, **Master**! I believe you are the **Messiah**, the **Son of God**.”
+Jisas i bekim tok. “Mi man bilong kirapim bek dai man na givim laip. Husat manmeri i bilip long mi bai i stap laip. Maski em i dai pinis. Olgeta manmeri husat i bilip long mi bai i no inap dai. Yu bilipim dispela.” Mata i bekim tok, “Yes, Masta! Mi bilip, yu dispela Mesaia, Piknini bilong God.”
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:jesus]]**
