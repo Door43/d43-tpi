@@ -1,8 +1,9 @@
 ===== Back to Judea [37-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-02.jpg?nolink&}}
 
-After the two days had passed, **Jesus** said to his **disciples**, “Let’s go back to **Judea**.” “But **Teacher**,” the disciples answered, “Just a short time ago the people there wanted to kill you!” Jesus said, “Our friend **Lazarus has fallen asleep**, **and I must wake him**.”
+Bihain long tupela de i go pinis, Jisas i tokim ol disaipel bilong em olsem, “Yumi i go bek long Judia.” Tasol tisa, Ol disaipel i bekim tok, “Sotpela taim i go pinis na ol manmeri i laik kilim yu!” Jisas i tok, “Pren bilong yumi Lasarus i slip, mi mas i go kirapim em.”
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:jesus]]**
