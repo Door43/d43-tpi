@@ -1,8 +1,9 @@
 ===== Working for Nothing [35-12] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-12.jpg?nolink&}}
 
-“The older son said to his father, ‘All these years I have worked **faithfully** for you! I never **disobeyed** you, and still you did not even give me **one small goat** so I could celebrate with my friends. But when **this son of yours** who **consumed your money** in **sinful** behavior came home, you **killed the best calf** for him!’”
+“Na nambawan pikinini man i tokim papa bilong em olsem, 'Olgeta dispela yia mi bin wok stret na wokim wok gut long yu! Na mi no bin sakim tok bilong yu, tasol yu no bin givim mi wanpela liklik meme long mi inap long amamas wantaim ol pren bilong mi. Tasol taim dispela pikinini man bilong yu husat i bin yusim nating mani long ol pasin nogut na i kam long haus, yu kilim gutpela patpela pikinini bulmakau long em!'”
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:faithful]]**
