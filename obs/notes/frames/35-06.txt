@@ -1,8 +1,9 @@
 ===== The Son Repented [35-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-06.jpg?nolink&}}
 
-“Finally, the younger son said to himself, ‘**What am I doing**? All my father’s **servants** have plenty to eat, and yet here I am starving. I will go back to my father and ask to be one of his servants.’”
+“Bihain tru, yangpela pikinini man i tok long em yet olsem, “Mi mekim wanem samting? Olgeta wokboi bilong papa bilong mi i gat planti kaikai long kaikai tasol mi hangre i stap long hia. Bai mi go bek long papa bilong mi na askim em long kamap wanpela wokboi bilong em.”
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:other:servant]]**
