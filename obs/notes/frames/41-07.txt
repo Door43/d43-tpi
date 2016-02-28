@@ -1,8 +1,9 @@
 ===== The Joyful News [41-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-07.jpg?nolink&}}
 
-The women were **full of fear and great joy**. They ran to tell the **disciples** the **good news**.
+Ol meri i pulap wantaim pret na bikpela amamas tu na ol i ran i go long autim gutnius long ol disaipel.
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:joy]]**
