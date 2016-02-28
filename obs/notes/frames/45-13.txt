@@ -1,8 +1,9 @@
 ===== The Ethiopian Went Home [45-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-13.jpg?nolink&}}
 
-The Ethiopian continued traveling toward his home, happy that he knew **Jesus**.
+Na dispela man Itiopia i amamas na bihainim rot i go long haus bilong em, na em i amamas olsem em i save long Jisas.
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:jesus]]**
