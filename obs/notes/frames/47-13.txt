@@ -1,8 +1,9 @@
 ===== The Good News Spreads [47-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-13.jpg?nolink&}}
 
-The next day **the leaders of the city** released **Paul** and **Silas** from prison and asked them to leave **Philippi**. Paul and Silas visited **Lydia** and some other friends and then left the city. **The good news about Jesus kept spreading**, and **the Church kept growing**.
+De bihain ol lida bilong taun i larim Pol na Sailas i lusim haus kalabus na i go. Ol i askim ol long lusim taun Filipai tu. Pol wantaim Sailas i go lukim Lidia na sampela arapela pren pastaim, na bihain ol i lusim taun Filipai. Gutnius bilong Jisas i kamap bikpela na i go long olgeta hap, na sios tu i kamap bikpela.
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:other:paul]]**
