@@ -1,8 +1,9 @@
 ===== Peter's Promise [38-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-10.jpg?nolink&}}
 
-**Peter** then said to **Jesus**, “Even if I must **die**, I will never **deny you**!” All the other **disciples** said the same thing.
+Na Pita i tokim Jisas gen olsem, “Maski sapos mi dai, mi no inap tok mi no save long yu!” Olgeta arapela disaipel i mekim wankain tok tasol.
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:other:peter]]**
