@@ -1,8 +1,9 @@
 ===== The Feast of Pentecost [43-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-02.jpg?nolink&}}
 
-Every year, 50 days after the **Passover**, the **Jews** celebrated an important day called **Pentecost**. Pentecost was a time when the Jews **celebrated the wheat harvest**. Jews came from all over the world to **Jerusalem** to celebrate Pentecost together. **This year**, the time for Pentecost came about a week after **Jesus** had gone back to **heaven**.
+Olgeta yia, 50 de bihain long Pasova, Ol Juda i save amamas na tingim bikpela de ol i kolim Pentikos. Pentikos em i taim bilong ol Juda i amamas na kaumautim ol kaikai bilong ol. Ol Juda i save kam long olgeta hap bilong graun long bung wantaim na amamas long Jerusalem long dispela de Pentikos. Long dispela yia, taim bilong Pentikos i kam olsem wanwik bihain long Jisas i go bek pinis long heven.
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:passover]]**
