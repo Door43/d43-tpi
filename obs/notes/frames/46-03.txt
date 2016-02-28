@@ -1,8 +1,9 @@
 ===== Saul Became Blind [46-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-03.jpg?nolink&}}
 
-When **Saul** got up, he could not see. His friends had to lead him into Damascus. Saul did not eat or drink anything for three days.
+Taim Sol i kirap, em i no inap long lukim wanpela samting. Ol lain bilong em i kisim em na ol i go long Damaskas. Sol i no kaikai na dring wara inap long 3-pela de.
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:other:paul]]**
