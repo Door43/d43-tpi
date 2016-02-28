@@ -1,8 +1,9 @@
 ===== I Have Sinned [35-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-08.jpg?nolink&}}
 
-“The **son** said, ‘Father, I have **sinned against God and against you**. **I am not worthy** to be your son.’”
+“Pikinini i tok olsem, 'Papa, mi mekim sin long God na long yu. Mi no gutpela inap long mi kamap pikinini bilong yu.”
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:son]]**
