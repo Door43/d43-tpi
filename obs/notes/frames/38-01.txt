@@ -1,8 +1,9 @@
 ===== The Passover [38-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-01.jpg?nolink&}}
 
-Every year, the **Jews** celebrated the **Passover**. This was a celebration of how **God** had **saved** their ancestors from **slavery** in **Egypt many centuries earlier**. About three years after **Jesus** first began **preaching** and teaching publicly, Jesus told his **disciples** that he wanted to celebrate this Passover with them in **Jerusalem**, and that he would be killed there.
+Long olgeta yia ol lain Juda i save amamasim Pasova. Dispela amamas em i makim taim ol tumbuna bilong ol lain Juda i stap kalabus long kantri Isip na God i bin helpim ol. Samting olsem 3-pela yia bihain Jisas i tokim ol disaipel olsem em bai amamasim dispela Pasova wantaim ol long Jerusalem na em bai dai long hap.
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:other:jew]]**
