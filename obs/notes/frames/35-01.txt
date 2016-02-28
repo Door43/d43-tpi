@@ -1,8 +1,9 @@
 ===== Jesus Taught Sinners [35-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-01.jpg?nolink&}}
 
-**One day**, **Jesus** was teaching many **tax collectors** and other **sinners** who had gathered to hear him.
+Wanpela de, Jisas i skulim ol man bilong kisim takis na ol arapela sin manmeri husat i kam bung long harim tok bilong em.
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:jesus]]**
