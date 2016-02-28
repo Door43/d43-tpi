@@ -1,8 +1,9 @@
 ===== Before the Jewish Leaders [44-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-07.jpg?nolink&}}
 
-The next day, the **Jewish leaders** brought **Peter** and **John** to the **high priest** and the other religious leaders. They asked Peter and John, “By what **power** did you heal this crippled man?”
+Long narapela de, ol lidaman bilong lain Juda i bringim Pita na Jon i go long hetpris na ol arapela lidaman bilong sios. Ol i askim Pita na Jon, “Long wanem strong na pawa yu oraitim dispela lek nogut man?”
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:other:jewishleaders]]**
