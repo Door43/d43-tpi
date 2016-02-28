@@ -1,8 +1,9 @@
 ===== Jesus Is Alive [42-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-05.jpg?nolink&}}
 
-The two men said to each other, “That was **Jesus**! That is why **our hearts were burning** when he explained **God’s word** to us!” Immediately, they went back to **Jerusalem**. When they arrived, they told the **disciples**, “Jesus is **alive**! We have seen him!”
+Tupela man toktok long ol yet, “Em Jisas! Olsem na bel bilong mitupela i olsem paia taim em i skulim yumi long tok bilong God.” Wantu ol i go bek long Jerusalem. Taim ol i kamap long Jerusalem, ol i tokim ol disaipel, “Jisas i stap laip! Mipela i lukim em!”
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:jesus]]**
