@@ -1,8 +1,9 @@
 ===== No Other Way but Jesus [44-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-08.jpg?nolink&}}
 
-**Peter** answered them, “This man stands before you **healed** by the **power** of **Jesus** the **Messiah**. You **crucified** Jesus, but **God raised** him to life again! You **rejected him**, **but there is no other way to be saved except through the power of Jesus**!”
+Pita i bekim tok bilong ol olsem, “Dispela man i sanap long pes bilong yupela, em i kamap orait long strong na pawa bilong Jisas em Mesaia. Yupela i kilim em i dai long diwai kros, tasol God i kirapim em long dai na em i stap laip gen. Yupela i no laikim m, tasol i no gat narapela rot bai yupela inap long i stap gut. Nogat tru, long strong na pawa bilong Jisas tasol!”
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:other:peter]]**
