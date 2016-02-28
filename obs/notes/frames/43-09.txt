@@ -1,8 +1,9 @@
 ===== Jesus Is the Messiah [43-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-09.jpg?nolink&}}
 
-“You **crucified** this man, **Jesus**. **But know for certain that God** has caused Jesus to become both **Lord** and **Messiah**!”
+“Yupela i hangamapim dispela man Jisas long diwai kros. Tasol yupela i mas save gut, nau em tru olsem God i mekim Jisas i kamap Bikpela na Mesaia!”
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:crucify]]**
