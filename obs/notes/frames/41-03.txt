@@ -1,8 +1,9 @@
 ===== The Women [41-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-03.jpg?nolink&}}
 
-The day after **Jesus** was buried was a **Sabbath** day, and **the Jews were not permitted** to go to a **tomb** on that day. So very early on the morning after the Sabbath day, several women prepared to go to Jesus’ **tomb** to put more **burial spices** on his body.
+De bihain ol i planim Jisas, em i de Sabat. Na em i tambu tru long olgeta lain Juda long i go long matmat long de Sabat. Olsem na long monintaim long de bihain long de Sabat sampela meri i bin redim sampela smel sanda long kisim i go long matmat. Ol i bin tingting long putim smel sanda long bodi bilong Jisas.
+
 ===== Important Terms: =====
 
   * **[[:tpi:obe:kt:jesus]]**
