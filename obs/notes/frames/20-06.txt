@@ -8,12 +8,12 @@ Ol lain Asiria i bin bagarapim kantri bilong Israel, klostu long 100 yia i go pi
 
 
   * **[[:tpi:obe:other:assyria]]**
-  * **[[:tpi:obe:other:kingdom-of-israel]]**
+  * **[[:tpi:obe:other:kingdomofisrael]]**
   * **[[:tpi:obe:kt:god]]**
   * **[[:tpi:obe:other:nebuchadnezzar]]**
   * **[[:tpi:obe:other:king]]**
   * **[[:tpi:obe:other:babylon]]**
-  * **[[:tpi:obe:other:kingdom-of-judah]]**
+  * **[[:tpi:obe:other:kingdomofjudah]]**
   * **[[:tpi:obe:other:babylon]]**
   * **[[:tpi:obe:other:servant]]**
 
