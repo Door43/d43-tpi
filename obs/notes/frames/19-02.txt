@@ -11,7 +11,7 @@ Elaisa i bin i stap profet long taim Ahap i stap King na lukautim Kingdom bilong
   * **[[:tpi:obe:kt:prophet]]**
   * **[[:tpi:obe:other:ahab]]**
   * **[[:tpi:obe:other:king]]**
-  * **[[:tpi:obe:other:kingdom-of-israel]]**
+  * **[[:tpi:obe:other:kingdomofisrael]]**
   * **[[:tpi:obe:kt:evil]]**
   * **[[:tpi:obe:kt:worship]]**
   * **[[:tpi:obe:kt:falsegod]]**
