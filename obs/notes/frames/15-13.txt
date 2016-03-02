@@ -12,7 +12,6 @@ Nau dispela taim Josua i lapun pinis, na em i singautim olgeta Israel . Na em i 
   * **[[:tpi:obe:other:obey]]**
   * **[[:tpi:obe:kt:covenant]]**
   * **[[:tpi:obe:kt:god]]**
-  * **[[:tpi:obe:other:israel]]**
   * **[[:tpi:obe:other:sinai]]**
   * **[[:tpi:obe:kt:promise]]**
   * **[[:tpi:obe:kt:faithful]]**
