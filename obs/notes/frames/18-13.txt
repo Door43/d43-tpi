@@ -8,7 +8,7 @@ Ol King bilong Juda i kamap long lain bilong Devit, sampela bilong ol dispela Ki
 
 
   * **[[:tpi:obe:other:king]]**
-  * **[[:tpi:obe:other:kingdom-of-judah]]**
+  * **[[:tpi:obe:other:kingdomofjudah]]**
   * **[[:tpi:obe:other:descendant]]**
   * **[[:tpi:obe:other:david]]**
   * **[[:tpi:obe:kt:good]]**
