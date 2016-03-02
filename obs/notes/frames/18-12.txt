@@ -8,7 +8,7 @@ Olgeta King na planti ol manmeri long lain Israel i lotuim ol giaman god. Taim o
 
 
   * **[[:tpi:obe:other:king]]**
-  * **[[:tpi:obe:other:kingdom-of-israel]]**
+  * **[[:tpi:obe:other:kingdomofisrael]]**
   * **[[:tpi:obe:kt:worship]]**
   * **[[:tpi:obe:other:idol]]**
   * **[[:tpi:obe:other:sacrifice]]**
