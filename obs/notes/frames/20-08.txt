@@ -9,7 +9,7 @@ Long givim hevi long king bilong ol Juda long tok bilas bilong em, ol soldia bil
 
   * **[[:tpi:obe:other:punish]]**
   * **[[:tpi:obe:other:king]]**
-  * **[[:tpi:obe:other:kingdom-of-judah]]**
+  * **[[:tpi:obe:other:kingdomofjudah]]**
   * **[[:tpi:obe:other:nebuchadnezzar]]**
   * **[[:tpi:obe:kt:son]]**
   * **[[:tpi:obe:other:babylon]]**
