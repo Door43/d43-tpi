@@ -1,10 +1,11 @@
-====== Complete List of Important Terms - Tok Pisin ======
+====== Complete List of translationWords - Tok Pisin ======
 
 ==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:tpi:obe:kt:home]]
-  * [[:tpi:obe:other:home]]
+  * [[:tpi:obe:kt:home|List of the Key Terms in the OBE Directory]]
+  * [[:tpi:obe:other:home|List of the Other Terms in the OBE Directory]]
 
-==== All Important Terms: ====
+
+==== All Terms in the OBE: ====
 
 <nspages tpi:obe -r -title -exclude:home -textPages="">
