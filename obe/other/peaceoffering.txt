@@ -2,20 +2,22 @@
 
 ===== Facts: =====
 
-Text
-  * bullet
-  * bullet
+A "peace offering" was one of several sacrificial offerings that God commanded the Israelites to make. It is sometimes called the "thanksgiving offering" or "fellowship offering."
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+  * This offering involved sacrificing an animal that had no defects, sprinkling the animal's blood on the altar, and burning the animal's fat, as well as the rest of the animal separately.
+  * Added to this sacrifice was an offering of both unleavened and leavened bread, which was burned on top of the burnt offering.
+  * The priest and offerer of the sacrifice were permitted to share in eating the food that was offered.
+  * This offering symbolizes the fellowship of God with his people.
 
-(See also: other)
+(Translation suggestions: [[:tpi:ta:vol1:translate:translate_names|Translate Names]])
 
 ===== Bible References: =====
 
-{{topic>peaceoffering&nocomments}}
+{{topic>peaceoffering&nocomments}}~~DISCUSSION~~
 
-~~DISCUSSION~~
+~~NOCACHE~~
 
+{{tag>publish}}
 ~~NOCACHE~~
 
 {{tag>create ezk43 ktlink}}
