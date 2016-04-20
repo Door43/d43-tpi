@@ -1,4 +1,4 @@
-====== sign (proof, reminder) ======
+====== sign, proof, reminder ======
 
 ===== Definition: =====
 
@@ -17,6 +17,7 @@ A sign is an object, event, or action that communicates a special meaning.
 ===== Translation Suggestions: =====
 
   * Depending on its context, "sign" could also be translated as "signal" or "symbol" or "mark" or "evidence" or "proof" or "gesture."
+  * Some languages may have a different word for a "sign" that proves something and a "sign" that is a miracle.
 
 (See also: [[:tpi:obe:kt:miracle|miracle, wonder, sign]], [[:tpi:obe:kt:apostle|apostle, apostleship]], [[:tpi:obe:kt:christ|Christ, Messiah]], [[:tpi:obe:kt:covenant|covenant]], [[:tpi:obe:kt:circumcise|circumcise, circumcision]])
 
