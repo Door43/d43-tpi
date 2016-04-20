@@ -1,19 +1,22 @@
-====== bear ======
+====== to bear ======
 
-===== Definition: =====
+===== Facts: =====
 
-A bear is a large, four-legged furry animal with dark brown or black hair, with sharp teeth and claws. Bears were common in Israel during Bible times.
+The term "to bear" literally means to "carry" something. There are also many figurative uses of this term.
 
-  * These animals live in forests and mountain areas; they eat fish, insects, and plants.
-  * In the Old Testament, the bear is used as a symbol of strength.
-  * While tending sheep, the shepherd David fought a bear and defeated it.
-  * Two bears came out of the forest and attacked a group of youths who had mocked the prophet Elisha.
+  * When speaking of a woman who will bear a child, this means "give birth to" a child.
+  * To "bear a burden" means to "experience difficult things." These difficult things could include physical or emotional suffering. 
+  * A common expression is "bear fruit" which means,  "produce fruit" or "have fruit."
+  * The idiom "bear witness" means to "testify" or to "report what one has seen or experienced."
+  * The statement that "a son will not bear the iniquity of his father" means that he "will not be held responsible for" or "will not be punished for" his father's sins.
 
-(See also:  [[:tpi:obe:other:david]], [[:tpi:obe:other:elisha]])
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: [[:tpi:obe:other:elisha]], [[:tpi:obe:other:sheep]], [[:tpi:obe:other:strength]], [[:tpi:obe:kt:testimony]], [[:tpi:obe:kt:witness]])
 
 ===== Bible References: =====
 
-{{topic>:tpi:bible?bearanimal&nocomments}}~~DISCUSSION~~
+{{topic>bear&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
