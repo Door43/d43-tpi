@@ -1,21 +1,20 @@
 ====== bear ======
 
-===== Facts: =====
+===== Definition: =====
 
-A large four legged mammal common in Israel during biblical times.
+A bear is a large, four-legged furry animal with dark brown or black hair, with sharp teeth and claws. Bears were common in Israel during Bible times.
 
-  * With it's sharp claws and large paws, the bear was used in the Old Testament as a symbol of strength.
-  * A bear is one of the four beasts that comes out of the ocean in Daniel's vision.
-  * While tending sheep King David fought a bear and defeated it.
+  * These animals live in forests and mountain areas; they eat fish, insects, and plants.
+  * In the Old Testament, the bear is used as a symbol of strength.
+  * While tending sheep, the shepherd David fought a bear and defeated it.
+  * Two bears came out of the forest and attacked a group of youths who had mocked the prophet Elisha.
 
-(Translation suggestions: [[:tpi:ta:vol1:translate:translate_names|Translate Names]])
-
-(See also: other)
+(See also:  [[:tpi:obe:other:david]], [[:tpi:obe:other:elisha]])
 
 ===== Bible References: =====
 
-{{topic>bear&nocomments}}~~DISCUSSION~~
+{{topic>:tpi:bible?bearanimal&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
-{{tag>review dan07 ktlink}}
+{{tag>publish}}
