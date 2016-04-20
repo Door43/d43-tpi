@@ -1,20 +1,18 @@
-====== Sidon ======
+====== Sidon, Sidonians ======
 
 
 ===== Facts: =====
 
 
-Sidon is an ancient city in the land of Canaan, located on the coast of the Mediterranean Sea in a region that is now part of the country of Lebanon. 
+Sidon was the oldest son of Canaan. There is also a Canaanite city called Sidon.
+ 
+    * The city of Sidon is located on the coast of the Mediterranean Sea in a region that is now part of the present-day country of Lebanon.
+    * The "Sidonians" were a people group who lived in ancient Sidon and the region surrounding it. These people were Gentiles.
+    * In the Bible, Sidon is closely associated with the city of Tyre, and both cities were known for their wealth and the immoral behavior of their people.
 
-    * The modern city of Sidon is located north of Tyre and south of Beirut.
-    * Sidon was named after the firstborn son of Canaan, who was a great-grandson of Noah.
-    * Ancient Sidon was located outside of Israel, and its inhabitants were mostly Gentiles.
-    * In the Bible, Sidon is closely associated with the city of Tyre, and both cities were known for their wealth and the immoral lifestyles of their people.
+(Translation suggestions: [[tpi:ta:vol1:translate:translate_names]])
 
-
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
-
-(See also: [[:En:obe:other:Canaan]], [[:En:obe:other:Noah]], [[:tpi:obe:other:Tyre]])
+(See also: [[:tpi:obe:other:Canaan]], [[:tpi:obe:other:Noah]], [[:tpi:obe:other:Tyre]])
 
 ===== Bible References: =====
 
