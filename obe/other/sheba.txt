@@ -2,20 +2,21 @@
 
 ===== Facts: =====
 
-Text
-  * bullet
-  * bullet
+In ancient times, Sheba was a civilization or region that was located somewhere in southern Arabia.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+  * Sheba existed near what is now present-day Yemen or Ethiopia, from 1200 B.C. to 275 A.D.
+  * Its inhabitants were probably descendants of Ham.
+  * The Queen of Sheba came to visit King Solomon when she heard the fame of his riches and wisdom.
+  * There are also several men named "Sheba" in the Old Testament.
 
-(See also: other)
+(Translation suggestions: [[:tpi:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: [[:tpi:obe:other:arabia]], [[:tpi:obe:other:ethiopia]], [[:tpi:obe:other:solomon]])
 
 ===== Bible References: =====
 
-{{topic>sheba&nocomments}}
-
-~~DISCUSSION~~
+{{topic>sheba&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
-{{tag>create ezk27 ktlink}}
+{{tag>publish}}
