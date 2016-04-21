@@ -1,0 +1,23 @@
+====== Hilkiah ======
+
+===== Facts: =====
+
+Hilkiah was the name of the high priest during the reign of King Josiah. 
+
+  * When the temple was being repaired, Hilkiah the high priest found the Book of the Law and ordered that it be brought to King Josiah.
+  * After the Book of the Law was read to him, Josiah was grieved and he caused the people of Judah to worship Yahweh again and obey his laws.
+  * Another man named Hilkiah was the son of Eliakim and worked in the palace during the time of King Hezekiah.
+
+(Translation suggestions: [[tpi:ta:vol1:translate:translate_names]])
+
+(See also: [[:tpi:obe:other:eliakim]], [[:tpi:obe:other:hezekiah]], [[:tpi:obe:kt:highpriest]],[[:tpi:obe:other:josiah]], [[:tpi:obe:other:kingdomofjudah]], [[:tpi:obe:other:law]][[:tpi:obe:kt:worship]], [[:tpi:obe:kt:yahweh]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?hilkiah&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}
