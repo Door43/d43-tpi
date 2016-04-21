@@ -1,26 +1,26 @@
-====== Law, Law of Moses, God's Law ======
+====== law, law of Moses, God's law, law of Yahweh ======
 
 ===== Definition: =====
 
-The terms, "the Law" and "the Law of Moses" refer generally to all the commandments and instructions that God gave Moses for the people of Israel to obey. Other ways of referring to these laws include, "Law of the Lord" or "God's Law."
+All these terms refer to the commandments and instructions that God gave Moses for the Israelites to obey. The terms "law" and "God's law" are also used more generally to refer to everything God wants his people to obey.
 
-  * Depending on the context, the term "Law" or "God's Law" can refer to:
+  * Depending on the context, the "law" can refer to:
       * the Ten Commandments that God wrote on stone tablets for the Israelites.
       * all the laws given to Moses
       * the first five books of the Old Testament.
       * the entire Old Testament (also referred to as "scriptures" in the New Testament).
       * all of God's instructions and will.
-  * Sometimes the term "Law and the Prophets" is used to refer to the Old Testament.
+  * The phrase "the law and the prophets" is used in the New Testament to refer to the Hebrew scriptures (or "Old Testament").
 
 ===== Translation Suggestions: =====
 
-  * Since there are many instructions, some translations may prefer to translate this in the plural and say, "laws."
-  * The "Law of Moses" could be translated as "the laws that God told Moses to give to the Israelites".
-  * "God's law(s)" can be translated as "the laws that God gave" or "the laws that God commanded."
-  * Depending on the context, "the Law of Moses" can also be translated as "the law that Moses wrote" or "the books that Moses wrote" or "the laws that God told Moses to give to the Israelites."
-  * The term "the Law" could also be translated as "God's commands" or "everything that God commanded" or "God's rules."
+  * These terms could be translated using the plural, "laws" since they refer to many instructions.
+  * The "law of Moses" could be translated as "the laws that God told Moses to give to the Israelites."
+  * Depending on the context, "the law of Moses" could also be translated as, "the law that God told to Moses" or "God's laws that Moses wrote down" or "the laws that God told Moses to give to the Israelites."
+  * Ways to translate "the law" or "law of God" or "God's laws" could include: "laws from God" or "God's commands" or "laws that God gave" or "everything that God commands" or "all of God's instructions"
+  * The phrase, "law of Yahweh" could also be translated as, "Yahweh's laws" or "laws that Yahweh said to obey" or "laws from Yahweh" or "things Yahweh commanded."
 
-(See also: [[:tpi:obe:other:moses|Moses]], [[:tpi:obe:other:tencommandments|Ten Commandments]], [[:tpi:obe:other:lawful|lawful]])
+(See also: [[:tpi:obe:other:instruct]], [[:tpi:obe:other:moses]], [[:tpi:obe:other:tencommandments]], [[:tpi:obe:other:lawful]],[[:tpi:obe:kt:yahweh]])
 
 ===== Bible References: =====
 
@@ -28,11 +28,12 @@ The terms, "the Law" and "the Law of Moses" refer generally to all the commandme
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tpi:obs:notes:frames:13-07|[13-07]]]** God also gave many other **laws**  and rules to follow. If the people obeyed these **laws**, God promised that he would bless and protect them. If they disobeyed them, God would punish them.
-  * **[[:tpi:obs:notes:frames:13-09|[13-09]]]** Anyone who disobeyed **God's law**  could bring an animal to the altar in front of the Tent of Meeting as a sacrifice to God.
-  * **[[:tpi:obs:notes:frames:15-13|[15-13]]]** Then Joshua reminded the people of their obligation to obey the covenant that God had made with the Israelites at Sinai. The people promised to remain faithful to God and follow **his laws**.
-  * **[[:tpi:obs:notes:frames:16-01|[16-01]]]** After Joshua died, the Israelites disobeyed God and did not drive out the rest of the Canaanites or obey **God's laws**.
-  * **[[:tpi:obs:notes:frames:21-05|[21-05]]]** In the New Covenant, God would write **his law**  on the people's hearts, the people would know God personally, they would be his people, and God would forgive their sins.
-  * **[[:tpi:obs:notes:frames:27-01|[27-01]]]** Jesus answered, "What is written in **God's law**?"
-  * **[[:tpi:obs:notes:frames:28-01|[28-01]]]** Jesus said to him, "Why do you call me 'good?' There is only one who is good, and that is God. But if you want to have eternal life, obey **God's laws**."
+  * **[[:tpi:obs:notes:frames:13-07|[13-07]]]** God also gave many other **laws**  and rules to follow. If the people obeyed these **laws**, God promised that he would bless and protect them. If they disobeyed them, God would punish them.\\
+  * **[[:tpi:obs:notes:frames:13-09|[13-09]]]** Anyone who disobeyed **God's law**  could bring an animal to the altar in front of the Tent of Meeting as a sacrifice to God.\\
+  * **[[:tpi:obs:notes:frames:15-13|[15-13]]]** Then Joshua reminded the people of their obligation to obey the covenant that God had made with the Israelites at Sinai. The people promised to remain faithful to God and follow **his laws**.\\
+  * **[[:tpi:obs:notes:frames:16-01|[16-01]]]** After Joshua died, the Israelites disobeyed God and did not drive out the rest of the Canaanites or obey **God's laws**.\\
+  * **[[:tpi:obs:notes:frames:21-05|[21-05]]]** In the New Covenant, God would write **his law**  on the people's hearts, the people would know God personally, they would be his people, and God would forgive their sins.\\
+  * **[[:tpi:obs:notes:frames:27-01|[27-01]]]** Jesus answered, "What is written in **God's law**?"\\
+  * **[[:tpi:obs:notes:frames:28-01|[28-01]]]** Jesus said to him, "Why do you call me 'good?' There is only one who is good, and that is God. But if you want to have eternal life, obey **God's laws**."\\
+ 
 ~~DISCUSSION~~{{tag>publish ktobs}}
