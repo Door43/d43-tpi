@@ -2,14 +2,16 @@
 
 ===== Facts: =====
 
-The wicked wife of Ahab King of Israel.
+Jezebel was the wicked wife of King Ahab of Israel.
 
-  * Jezebel's most infamous act was having an innocent man named Naboth killed so Ahab could steal his land.
-  * The prophet Elijah prophesied against Jezebel and she received a violent death due to her wicked acts.
+  * Jezebel influenced Ahab and the rest of Israel to worship idols.
+  * She also killed many of God's prophets.
+  * Jezebel caused an innocent man named Naboth to be killed so that Ahab could steal Naboth's vineyard.
+  * Jezebel was finally killed due to all the evil things she had done. Elijah prophesied about how she would die and it happened exactly as he had predicted.
 
 (Translation suggestions: [[:tpi:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: other)
+(See also: [[:tpi:obe:other:ahab]], [[:tpi:obe:other:elijah]], [[:tpi:obe:other:idol]])
 
 ===== Bible References: =====
 
@@ -17,4 +19,4 @@ The wicked wife of Ahab King of Israel.
 
 ~~NOCACHE~~
 
-{{tag>review 1Ki16 ktlink}}
+{{tag>publish}}
