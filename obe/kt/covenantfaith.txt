@@ -1,19 +1,20 @@
-====== covenant faithfulness ======
+====== covenant faithfulness, covenant loyalty ======
 
 ===== Definition: =====
 
-This term is used to describe God's unwaivering ability and desire to fulfill His promises that He made with Israel.
+This term is used to describe God's commitment to fulfill the promises that he made to his people.
 
-  * God made agreements with Israel called covenants where He promised to bless and set them apart. God keeps His promises to His people.
-  * Some of God's covenants were conditional, meaning He would fulfill it only if Israel fulfilled their duties to Him. Other covenants were unconditional and God stayed faithful in fulfilling them even though Israel disobeyed.
-  * Faithfulness to His covenants is a way God demonstrates His grace to His people.
+  * God made promises to the Israelites in formal agreements called "covenants."
+  * The "covenant faithfulness" or "covenant loyalty" of Yahweh refers to the fact that he keeps his promises to his people. 
+  * God faithfulness to keep his covenant promises is an expression of his grace toward his people. 
+  * The term "loyalty" is another word that refers to being committed and dependable to do and say what has been promised and what will benefit someone else.
 
 ===== Translation Suggestions: =====
 
-  * bullet
-  * bullet
+  * The way this term is translated will also depend on how the terms "covenant" and "faithfulness" are translated.
+  * Other ways to translate this term could include, "faithful love" or "loyal, committed love" or "loving dependability."
 
-(See also: other)
+(See also: [[tpi:obe:kt:covenant]], [[tpi:obe:kt:faithful]], [[tpi:obe:kt:grace]], [[tpi:obe:other:israel]], [[tpi:obe:kt:peopleofgod]],[[tpi:obe:kt:promise]])
 
 ===== Bible References: =====
 
@@ -21,4 +22,4 @@ This term is used to describe God's unwaivering ability and desire to fulfill Hi
 
 ~~NOCACHE~~
 
-{{tag>review ktlink}}
+{{tag>publish}}
