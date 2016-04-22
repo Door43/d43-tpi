@@ -19,7 +19,7 @@ A false god is something that people worship instead of the one true God. The te
   * Another option would be to use a completely different word to refer to the false gods.
   * Some languages may add a word to specify whether the false god is described as male or female.
 
-(See also: [[:tpi:obe:kt:god]], [[:tpi:obe:other:asherah]], [[:tpi:obe:other:baal]], [[:tpi:obe:other:molech]], [[:tpi:obe:other:idol]], [[:tpi:obe:kt:demon]], [[:tpi:obe:other:image]])
+(See also: [[:tpi:obe:kt:god]], [[:tpi:obe:other:asherim]], [[:tpi:obe:other:baal]], [[:tpi:obe:other:molech]], [[:tpi:obe:other:idol]], [[:tpi:obe:kt:demon]], [[:tpi:obe:other:image]])
 
 ===== Bible References: =====
 
