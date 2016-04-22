@@ -1,23 +1,28 @@
-====== assembly ======
+====== assembly, assemble ======
 
 ===== Definition: =====
 
 The term "assembly" usually refers to a group of people who come together to discuss problems, give advice, and make decisions.
 
   * An assembly can be a group that is organized in an official and somewhat permanent way, or it can be a group of people who come together temporarily for a specific purpose or occasion.
-  * In the Old Testament there was a special kind of assembly called a "sacred assembly" where the people of Israel would gather to worship before the Lord.
-  * Sometimes the term "assembly" is used to refer to a large gathering of enemy forces. This could translated as "army."
-  * In the New Testament, the Jewish judicial assembly or council was also known as the "Sanhedrin."
+  * In the Old Testament there was a special kind of assembly called a "sacred assembly" where the people of Israel would gather to worship Yahweh.
+  * Sometimes the term "assembly" referred to the Israelites in general, as a group.
+  * A large gathering of enemy soldiers is sometimes also referred to as an "assembly." This could be translated as "army."
+  * In the New Testament, an assembly of 70 Jewish leaders in major cities such as Jerusalem would meet to judge legal matters and to settle disputes between people. This assembly was known as the "Sanhedrin" or the "Council."
+
 
 ===== Translation Suggestions =====
 
-  * Depending on the context, "assembly" could also be translated as "special gathering" or "congregation" or "council" or "army."
+  * Depending on the context, "assembly" could also be translated as "special gathering" or "congregation" or "council" or "army" or "large group."
+  * When the term "assembly" refers generally to the Israelites as a whole, it could also be translated as "community" or "people of Israel."
+  * The phrase, "all the assembly" could be translated as "all the people" or "the whole group of Israelites" or "everyone." (See: [[:tpi:ta:vol2:translate:figs_hyperbole]])
 
-(See also: [[:tpi:obe:other:council|council]])
+
+(See also: [[:tpi:obe:other:council]])
 
 ===== Bible References: =====
 
-{{topic>:en:bible?assembly&nocomments}}
+{{topic>:en:bible?assembly&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
