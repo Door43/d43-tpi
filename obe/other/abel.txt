@@ -1,20 +1,21 @@
 ====== Abel  ======
 
 
-===== Facts:  =====
+===== Facts: =====
 
-
-Abel was Adam and Eve' second son.
+Abel was Adam and Eve's second son. He was Cain's younger brother.
 
     * Abel was a shepherd.
-    * Abel pleased God with his life and offerings.
-    * Adam and Eve's firstborn son Cain, murdered, Abel.
+    * Abel sacrificed some of his animals as an offering to God.
+    * God was pleased with Abel and his offerings.
+    * Adam and Eve's firstborn son Cain murdered Abel.
 
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]]) 
+(Translation suggestions: [[tpi:ta:vol1:translate:translate_names]]) 
 
 
-(See also: [[adam]], [[eve]], [[shepherd]])
+(See also: [[adam]], [[:tpi:obe:other:cain]], [[eve]], [[:tpi:obe:other:sacrifice]], [[shepherd]])
+
 ===== Bible References: =====
 
 
